@@ -56,14 +56,14 @@ subject to the following conditions:
    licensor.
 
 3. Any likenesses, characters, sounds, phrases or references specific to 
-   Duke Nukem, 3D Realms Entertainment, or Apogee Software Ltd. appear in this 
+   Shadow Warrior, 3D Realms Entertainment, or Apogee Software Ltd. appear in this 
    Work courtesy of 3D Realms Entertainment and are the exclusive property of 
    3D Realms Entertainment, and are provided only to be used with a legally 
-   acquired copy of Duke Nukem 3D. You may not alter, transform, build upon or 
+   acquired copy of Shadow Warrior. You may not alter, transform, build upon or 
    adapt any portion of this Work specifically related to or derived from the 
-   Duke Nukem intellectual property, including likenesses, characters, sounds, 
+   Shadow Warrior intellectual property, including likenesses, characters, sounds, 
    phrases or references for any purpose other than use with a legally acquired 
-   copy of Duke Nukem 3D.
+   copy of Shadow Warrior.
 
 4. Any works based upon altered, transformed, or copied parts of this Work must 
    be distributed under a license identical or similar to this one.
