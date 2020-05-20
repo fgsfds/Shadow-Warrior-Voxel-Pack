@@ -47,6 +47,8 @@ voxel "KVX/0551_LIGHTS1.KVX" { tile 551 }
 voxel "KVX/0552_LIGHTS2.KVX" { tile 552 }
 voxel "KVX/0553_SKULLBU1.KVX" { tile 553 }
 voxel "KVX/0554_SKULLBU2.KVX" { tile 554 }
+voxel "KVX/0575_STBUTTNA.KVX" { tile 0575 }
+voxel "KVX/0576_STBUTTNB.KVX" { tile 0576 }
 voxel "KVX/0579_MSWITCH1.KVX" { tile 579 }
 voxel "KVX/0580_MSWITCH2.KVX" { tile 580 }
 voxel "KVX/0581_EBUTTN.KVX" { tile 581 }
@@ -81,7 +83,13 @@ voxel "KVX/2682_CASE1.KVX" { tile 2682 }
 voxel "KVX/2683_LITBOX.KVX" { tile 2683 }
 voxel "KVX/2684_BBAG.KVX" { tile 2684 }
 voxel "KVX/2685_TRAVEL2.KVX" { tile 2685 }
-voxel "KVX/2725_BSKULL.KVX" { tile 2725 }
+voxel "KVX/2700_PLAMPR2.KVX" { tile 2700 }
+voxel "KVX/2701_PLAMPY.KVX" { tile 2701 }
+voxel "KVX/2702_BIGLAMP.KVX" { tile 2702 }
+voxel "KVX/2703_PLAMPB.KVX" { tile 2703 }
+voxel "KVX/2704_REDLAMP.KVX" { tile 2704 }
+voxel "KVX/2705_PAPERLN.KVX" { tile 2705 }
+//voxel "KVX/2725_BSKULL.KVX" { tile 2725 }
 voxel "KVX/2737_WTABLE.KVX" { tile 2737 }
 voxel "KVX/2738_SOAPDISP.KVX" { tile 2738 }
 voxel "KVX/2739_PAPER.KVX" { tile 2739 }
@@ -108,12 +116,4 @@ voxel "KVX/5061_SWORD1.KVX" { tile 5061 }
 voxel "KVX/5062_WOODN2.KVX" { tile 5062 }
 voxel "KVX/5063_WOODN3.KVX" { tile 5063 }
 voxel "KVX/5077_RATFOOD.KVX" { tile 5077 }
-voxel "KVX/0575_STBUTTNA.KVX" { tile 0575 }
-voxel "KVX/0576_STBUTTNB.KVX" { tile 0576 }
-voxel "KVX/2700_PLAMPR2.KVX" { tile 2700 }
-voxel "KVX/2701_PLAMPY.KVX" { tile 2701 }
-voxel "KVX/2702_BIGLAMP.KVX" { tile 2702 }
-voxel "KVX/2703_PLAMPB.KVX" { tile 2703 }
-voxel "KVX/2704_REDLAMP.KVX" { tile 2704 }
-voxel "KVX/2705_PAPERLN.KVX" { tile 2705 }
 voxel "KVX/5800_SCISSOR.KVX" { tile 5800 }
