@@ -2,9 +2,8 @@
 Shadow Warrior Voxel Pack
 ============================================================================================
 
-Version:       0.02
-Release Date:  23.05.2020
-Author:        fgsfds
+Version:       0.03
+Release Date:  TBA
 
 
 ============================================================================================
@@ -12,7 +11,7 @@ ABOUT
 ============================================================================================
 
 This pack provides voxel replacements for sprites in Shadow Warrior.
-It is meant to be used with BuildGDX port.
+It is meant to be used with BuildGDX and VoidSW ports.
 
 
 ============================================================================================
@@ -20,8 +19,11 @@ HOW TO USE
 ============================================================================================
 
 BuildGDX (1.09 or later):
-- put voxels.zip into autoload folder
+- put swvoxels.zip into autoload folder
 - make sure "enable autoload folder" checkbox is enabled
+
+VoidSW:
+- unpack swvoxels.zip archive into the port working folder
 
 
 ============================================================================================
@@ -34,13 +36,14 @@ LINKS
 
 > BuildGDX port:
    https://m210.duke4.net/index.php/downloads/download/8-java/53-buildgdx
+   
+> VoidSW port:
+   https://www.eduke32.com/
 
 
 ============================================================================================
 CREDITS
 ============================================================================================
-
-Main Development:
 
 > Voxel creation
    mxrtxn
@@ -54,6 +57,11 @@ Main Development:
 ============================================================================================
 CHANGELOG
 ============================================================================================
+
+Version 0.03 (TBA)
+---------------------------
+- More voxels from mxrtxn
+
 
 Version 0.02 (23.05.2020)
 ---------------------------
