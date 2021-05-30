@@ -25,6 +25,8 @@ BuildGDX (1.09 or later):
 VoidSW:
 - unpack swvoxels.zip archive into the port working folder
 
+Raze:
+- drag swvoxels.zip and drop it on Raze.exe and select Shadow Warrior.
 
 ============================================================================================
 LINKS
@@ -40,6 +42,9 @@ LINKS
 > VoidSW port:
    https://www.eduke32.com/
 
+> Raze port:
+   https://github.com/coelckers/Raze
+
 
 ============================================================================================
 CREDITS
@@ -48,6 +53,7 @@ CREDITS
 > Voxel creation
    mxrtxn
    ReaperMan
+   Dzierzan
    unknown authors
 
 > All voxels based on work by 
