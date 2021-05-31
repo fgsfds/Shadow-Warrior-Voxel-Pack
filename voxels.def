@@ -1,9 +1,9 @@
 voxel "SWVOXFIL/0061.KVX" { tile 61 }
-voxel "SWVOXFIL/0068.KVX" { tile 68 }
+//voxel "SWVOXFIL/0068.KVX" { tile 68 }  //It is unfinished
 voxel "SWVOXFIL/0069.KVX" { tile 69 }
 voxel "SWVOXFIL/0081.KVX" { tile 81 }
 voxel "SWVOXFIL/0084.KVX" { tile 84 }
-voxel "SWVOXFIL/0087.KVX" { tile 87 }
+//voxel "SWVOXFIL/0087.KVX" { tile 87 } //It is unfinished
 voxel "SWVOXFIL/0363.KVX" { tile 363 }
 voxel "SWVOXFIL/0366.KVX" { tile 366 }
 voxel "SWVOXFIL/0378.KVX" { tile 378 }
