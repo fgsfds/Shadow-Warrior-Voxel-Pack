@@ -113,7 +113,7 @@ voxel "SWVOXFIL/2702.KVX" { tile 2702 }
 voxel "SWVOXFIL/2703.KVX" { tile 2703 }
 voxel "SWVOXFIL/2704.KVX" { tile 2704 }
 voxel "SWVOXFIL/2705.KVX" { tile 2705 }
-//voxel "SWVOXFIL/2725.KVX" { tile 2725 }
+//voxel "SWVOXFIL/2725.KVX" { tile 2725 } //Head gib
 voxel "SWVOXFIL/2737.KVX" { tile 2737 }
 voxel "SWVOXFIL/2738.KVX" { tile 2738 }
 voxel "SWVOXFIL/2739.KVX" { tile 2739 }
@@ -136,7 +136,7 @@ voxel "SWVOXFIL/3580.KVX" { tile 3580 }
 voxel "SWVOXFIL/3589.KVX" { tile 3589 }
 voxel "SWVOXFIL/3590.KVX" { tile 3590 }
 //voxel "SWVOXFIL/4226.KVX" { tile 4226 } //Dead Evil Ninja
-voxel "SWVOXFIL/4312.KVX" { tile 4312 }
+//voxel "SWVOXFIL/4312.KVX" { tile 4312 } //Coolie Dead Body
 voxel "SWVOXFIL/4886.KVX" { tile 4886 }
 voxel "SWVOXFIL/4947.KVX" { tile 4947 }
 voxel "SWVOXFIL/5042.KVX" { tile 5042 }
