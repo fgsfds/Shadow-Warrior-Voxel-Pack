@@ -26,7 +26,7 @@ voxel "SWVOXFIL/0428.KVX" { tile 428 }
 voxel "SWVOXFIL/0429.KVX" { tile 429 }
 voxel "SWVOXFIL/0439.KVX" { tile 439 }
 voxel "SWVOXFIL/0442.KVX" { tile 442 }
-voxel "SWVOXFIL/0443.KVX" { tile 443 }
+//voxel "SWVOXFIL/0443.KVX" { tile 443 } //There's only one sprite for that animated voxel, so it's right now disabled.
 voxel "SWVOXFIL/0453.KVX" { tile 453 }
 voxel "SWVOXFIL/0454.KVX" { tile 454 }
 voxel "SWVOXFIL/0455.KVX" { tile 455 }
