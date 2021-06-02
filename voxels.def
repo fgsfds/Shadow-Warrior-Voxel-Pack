@@ -48,7 +48,7 @@ voxel "SWVOXFIL/0504.KVX" { tile 504 }
 voxel "SWVOXFIL/0505.KVX" { tile 505 }
 voxel "SWVOXFIL/0506.KVX" { tile 506 }
 voxel "SWVOXFIL/0507.KVX" { tile 507 }
-voxel "SWVOXFIL/0508.KVX" { tile 508 }
+voxel "SWVOXFIL/0508.KVX" { tile 508 } // Dzierzan
 voxel "SWVOXFIL/0509.KVX" { tile 509 }
 voxel "SWVOXFIL/0510.KVX" { tile 510 }
 voxel "SWVOXFIL/0511.KVX" { tile 511 }
