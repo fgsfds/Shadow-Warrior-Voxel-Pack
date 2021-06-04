@@ -76,7 +76,7 @@ voxel "SWVOXFIL/0623.KVX" { tile 623 }
 voxel "SWVOXFIL/0643.KVX" { tile 643 }
 voxel "SWVOXFIL/0646.KVX" { tile 646 }
 voxel "SWVOXFIL/0647.KVX" { tile 647 } // Dzierzan
-voxel "SWVOXFIL/0648.KVX" { tile 648 }
+voxel "SWVOXFIL/0648.KVX" { tile 648 } // Dzierzan
 voxel "SWVOXFIL/0656.KVX" { tile 656 }
 voxel "SWVOXFIL/0657.KVX" { tile 657 }
 voxel "SWVOXFIL/0658.KVX" { tile 658 }
