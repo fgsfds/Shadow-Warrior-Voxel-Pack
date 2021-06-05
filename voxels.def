@@ -1,5 +1,5 @@
 voxel "SWVOXFIL/0061.KVX" { tile 61 }
-//voxel "SWVOXFIL/0068.KVX" { tile 68 }  //It is unfinished
+//voxel "SWVOXFIL/0068.KVX" { tile 68 } //It is unfinished
 voxel "SWVOXFIL/0069.KVX" { tile 69 }
 voxel "SWVOXFIL/0081.KVX" { tile 81 }
 voxel "SWVOXFIL/0084.KVX" { tile 84 }
@@ -100,7 +100,7 @@ voxel "SWVOXFIL/0712.KVX" { tile 0712 }
 voxel "SWVOXFIL/0713.KVX" { tile 0713 }
 voxel "SWVOXFIL/0742.KVX" { tile 742 }
 voxel "SWVOXFIL/0743.KVX" { tile 743 }
-voxel "SWVOXFIL/0766.KVX" { tile 766 }
+voxel "SWVOXFIL/0766.KVX" { tile0 0766 tile1 0767 } // Dzierzan
 voxel "SWVOXFIL/2680.KVX" { tile 2680 }
 voxel "SWVOXFIL/2681.KVX" { tile 2681 }
 voxel "SWVOXFIL/2682.KVX" { tile 2682 }
