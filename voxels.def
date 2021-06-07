@@ -164,6 +164,7 @@ voxel "SWVOXFIL/3590.KVX" { tile 3590 }
 //voxel "SWVOXFIL/4312.KVX" { tile 4312 } //Coolie Dead Body
 voxel "SWVOXFIL/4886.KVX" { tile 4886 }
 voxel "SWVOXFIL/4947.KVX" { tile 4947 }
+voxel "SWVOXFIL/4994.KVX" { tile 4994 } // Dzierzan
 voxel "SWVOXFIL/5042.KVX" { tile 5042 }
 voxel "SWVOXFIL/5043.KVX" { tile 5043 }
 voxel "SWVOXFIL/5060.KVX" { tile 5060 }
