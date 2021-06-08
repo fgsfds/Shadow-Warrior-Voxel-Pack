@@ -3,6 +3,7 @@ voxel "SWVOXFIL/0069.KVX" { tile 69 }
 voxel "SWVOXFIL/0081.KVX" { tile 81 }
 voxel "SWVOXFIL/0084.KVX" { tile 84 }
 voxel "SWVOXFIL/0261.KVX" { tile 261 } // mxrtxn
+voxel "SWVOXFIL/0279.KVX" { tile 279 } // mxrtxn
 voxel "SWVOXFIL/0280.KVX" { tile 280 } // mxrtxn
 voxel "SWVOXFIL/0295.KVX" { tile 295 } // mxrtxn
 voxel "SWVOXFIL/0361.KVX" { tile 361 } // mxrtxn
