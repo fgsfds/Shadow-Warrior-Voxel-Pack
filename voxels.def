@@ -95,7 +95,7 @@ voxel "SWVOXFIL/0686.KVX" { tile 686 } // Dzierzan
 voxel "SWVOXFIL/0689.KVX" { tile 689 } // mxrtxn
 voxel "SWVOXFIL/0691.KVX" { tile 691 } // Dzierzan
 voxel "SWVOXFIL/0693.KVX" { tile 693 } // mxrtxn
-voxel "SWVOXFIL/0694.KVX" { tile 694 } // mxrtxn
+voxel "SWVOXFIL/0694.KVX" { tile 694 } // Dzierzan
 voxel "SWVOXFIL/0695.KVX" { tile 695 } // mxrtxn
 voxel "SWVOXFIL/0696.KVX" { tile 696 } // mxrtxn
 voxel "SWVOXFIL/0705.KVX" { tile 705 } // Dzierzan
