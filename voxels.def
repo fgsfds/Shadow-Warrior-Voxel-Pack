@@ -1,109 +1,106 @@
 voxel "SWVOXFIL/0061.KVX" { tile 61 }
-//voxel "SWVOXFIL/0068.KVX" { tile 68 } //It is unfinished
 voxel "SWVOXFIL/0069.KVX" { tile 69 }
 voxel "SWVOXFIL/0081.KVX" { tile 81 }
 voxel "SWVOXFIL/0084.KVX" { tile 84 }
-//voxel "SWVOXFIL/0087.KVX" { tile 87 } //It is unfinished
-voxel "SWVOXFIL/0261.KVX" { tile 261 }
-voxel "SWVOXFIL/0280.KVX" { tile 280 }
-voxel "SWVOXFIL/0295.KVX" { tile 295 }
-voxel "SWVOXFIL/0361.KVX" { tile 361 }
-voxel "SWVOXFIL/0363.KVX" { tile 363 }
-voxel "SWVOXFIL/0366.KVX" { tile 366 }
-voxel "SWVOXFIL/0378.KVX" { tile 378 }
-voxel "SWVOXFIL/0390.KVX" { tile 390 }
-voxel "SWVOXFIL/0393.KVX" { tile 393 }
-voxel "SWVOXFIL/0396.KVX" { tile 396 }
-voxel "SWVOXFIL/0397.KVX" { tile 397 }
-voxel "SWVOXFIL/0398.KVX" { tile 398 }
-voxel "SWVOXFIL/0399.KVX" { tile 399 }
+voxel "SWVOXFIL/0261.KVX" { tile 261 } // mxrtxn
+voxel "SWVOXFIL/0280.KVX" { tile 280 } // mxrtxn
+voxel "SWVOXFIL/0295.KVX" { tile 295 } // mxrtxn
+voxel "SWVOXFIL/0361.KVX" { tile 361 } // mxrtxn
+voxel "SWVOXFIL/0363.KVX" { tile 363 } // mxrtxn
+voxel "SWVOXFIL/0366.KVX" { tile 366 } // mxrtxn
+voxel "SWVOXFIL/0378.KVX" { tile 378 } // mxrtxn
+voxel "SWVOXFIL/0390.KVX" { tile 390 } // mxrtxn
+voxel "SWVOXFIL/0393.KVX" { tile 393 } // mxrtxn
+voxel "SWVOXFIL/0396.KVX" { tile 396 } // mxrtxn
+voxel "SWVOXFIL/0397.KVX" { tile 397 } // mxrtxn
+voxel "SWVOXFIL/0398.KVX" { tile 398 } // mxrtxn
+voxel "SWVOXFIL/0399.KVX" { tile 399 } // mxrtxn
 voxel "SWVOXFIL/0401.KVX" { tile 401 }
 voxel "SWVOXFIL/0402.KVX" { tile 402 }
 voxel "SWVOXFIL/0408.KVX" { tile 408 }
 voxel "SWVOXFIL/0408.KVX" { tile 408 }
-voxel "SWVOXFIL/0409.KVX" { tile 409 }
+voxel "SWVOXFIL/0409.KVX" { tile 409 } // mxrtxn
 voxel "SWVOXFIL/0415.KVX" { tile 415 } // Dzierzan
 voxel "SWVOXFIL/0416.KVX" { tile 416 } // Dzierzan
 voxel "SWVOXFIL/0417.KVX" { tile 417 } // Dzierzan
 voxel "SWVOXFIL/0421.KVX" { tile 421 }
-voxel "SWVOXFIL/0428.KVX" { tile 428 }
-voxel "SWVOXFIL/0429.KVX" { tile 429 }
-voxel "SWVOXFIL/0439.KVX" { tile 439 }
-voxel "SWVOXFIL/0442.KVX" { tile 442 }
-//voxel "SWVOXFIL/0443.KVX" { tile 443 } //There's only one sprite for that animated voxel, so it's right now disabled.
+voxel "SWVOXFIL/0428.KVX" { tile 428 } // mxrtxn
+voxel "SWVOXFIL/0429.KVX" { tile 429 } // mxrtxn
+voxel "SWVOXFIL/0439.KVX" { tile 439 } // mxrtxn
+voxel "SWVOXFIL/0442.KVX" { tile 442 } // mxrtxn
+//voxel "SWVOXFIL/0443.KVX" { tile 443 } //There's only one sprite for that animated voxel, so it's right now disabled. // mxrtxn
 voxel "SWVOXFIL/0453.KVX" { tile 453 }
 voxel "SWVOXFIL/0454.KVX" { tile 454 }
 voxel "SWVOXFIL/0455.KVX" { tile 455 }
 voxel "SWVOXFIL/0456.KVX" { tile 456 }
-voxel "SWVOXFIL/0463.KVX" { tile 463 }
-voxel "SWVOXFIL/0468.KVX" { tile 468 }
-voxel "SWVOXFIL/0475.KVX" { tile 475 }
+voxel "SWVOXFIL/0463.KVX" { tile 463 } // mxrtxn
+voxel "SWVOXFIL/0468.KVX" { tile 468 } // mxrtxn
+voxel "SWVOXFIL/0475.KVX" { tile 475 } // mxrtxn
 voxel "SWVOXFIL/0478.KVX" { tile 478 } // Dzierzan
-voxel "SWVOXFIL/0481.KVX" { tile 481 }
+voxel "SWVOXFIL/0481.KVX" { tile 481 } // mxrtxn
 voxel "SWVOXFIL/0486.KVX" { tile 486 }
-voxel "SWVOXFIL/0487.KVX" { tile 487 }
-voxel "SWVOXFIL/0492.KVX" { tile 492 }
-voxel "SWVOXFIL/0493.KVX" { tile 493 }
-voxel "SWVOXFIL/0496.KVX" { tile 496 }
+voxel "SWVOXFIL/0487.KVX" { tile 487 } // mxrtxn
+voxel "SWVOXFIL/0492.KVX" { tile 492 } // mxrtxn
+voxel "SWVOXFIL/0493.KVX" { tile 493 } // mxrtxn
+voxel "SWVOXFIL/0496.KVX" { tile 496 } // mxrtxn
 voxel "SWVOXFIL/0498.KVX" { tile 498 }
 voxel "SWVOXFIL/0500.KVX" { tile 500 }
 voxel "SWVOXFIL/0501.KVX" { tile 501 }
 voxel "SWVOXFIL/0504.KVX" { tile 504 }
 voxel "SWVOXFIL/0505.KVX" { tile 505 }
 voxel "SWVOXFIL/0506.KVX" { tile 506 }
-voxel "SWVOXFIL/0507.KVX" { tile 507 }
+voxel "SWVOXFIL/0507.KVX" { tile 507 } // mxrtxn
 voxel "SWVOXFIL/0508.KVX" { tile 508 } // Dzierzan
-voxel "SWVOXFIL/0509.KVX" { tile 509 }
-voxel "SWVOXFIL/0510.KVX" { tile 510 }
-voxel "SWVOXFIL/0511.KVX" { tile 511 }
-voxel "SWVOXFIL/0519.KVX" { tile 519 }
-voxel "SWVOXFIL/0520.KVX" { tile 520 }
-voxel "SWVOXFIL/0537.KVX" { tile 537 }
-voxel "SWVOXFIL/0538.KVX" { tile 538 }
-voxel "SWVOXFIL/0539.KVX" { tile 539 }
-voxel "SWVOXFIL/0540.KVX" { tile 540 }
+voxel "SWVOXFIL/0509.KVX" { tile 509 } // mxrtxn
+voxel "SWVOXFIL/0510.KVX" { tile 510 } // mxrtxn
+voxel "SWVOXFIL/0511.KVX" { tile 511 } // mxrtxn
+voxel "SWVOXFIL/0519.KVX" { tile 519 } // mxrtxn
+voxel "SWVOXFIL/0520.KVX" { tile 520 } // mxrtxn
+voxel "SWVOXFIL/0537.KVX" { tile 537 } // mxrtxn
+voxel "SWVOXFIL/0538.KVX" { tile 538 } // mxrtxn
+voxel "SWVOXFIL/0539.KVX" { tile 539 } // mxrtxn
+voxel "SWVOXFIL/0540.KVX" { tile 540 } // mxrtxn
 voxel "SWVOXFIL/0549.KVX" { tile 549 }
 voxel "SWVOXFIL/0551.KVX" { tile 551 }
 voxel "SWVOXFIL/0552.KVX" { tile 552 }
 voxel "SWVOXFIL/0553.KVX" { tile 553 }
 voxel "SWVOXFIL/0554.KVX" { tile 554 }
-voxel "SWVOXFIL/0579.KVX" { tile 579 }
-voxel "SWVOXFIL/0580.KVX" { tile 580 }
-voxel "SWVOXFIL/0581.KVX" { tile 581 }
-voxel "SWVOXFIL/0582.KVX" { tile 582 }
-voxel "SWVOXFIL/0590.KVX" { tile 590 }
-voxel "SWVOXFIL/0591.KVX" { tile 591 }
-voxel "SWVOXFIL/0592.KVX" { tile 592 }
+voxel "SWVOXFIL/0579.KVX" { tile 579 } // ReaperMan
+voxel "SWVOXFIL/0580.KVX" { tile 580 } // ReaperMan
+voxel "SWVOXFIL/0581.KVX" { tile 581 } // mxrtxn
+voxel "SWVOXFIL/0582.KVX" { tile 582 } // mxrtxn
+voxel "SWVOXFIL/0590.KVX" { tile 590 } // fgsfds
+voxel "SWVOXFIL/0591.KVX" { tile 591 } // mxrtxn
+voxel "SWVOXFIL/0592.KVX" { tile 592 } // mxrtxn
 voxel "SWVOXFIL/0613.KVX" { tile 613 } // Dzierzan
-voxel "SWVOXFIL/0614.KVX" { tile 614 }
+voxel "SWVOXFIL/0614.KVX" { tile 614 } // mxrtxn
 voxel "SWVOXFIL/0623.KVX" { tile 623 }
 voxel "SWVOXFIL/0643.KVX" { tile 643 }
-voxel "SWVOXFIL/0646.KVX" { tile 646 }
+voxel "SWVOXFIL/0646.KVX" { tile 646 } // mxrtxn
 voxel "SWVOXFIL/0647.KVX" { tile 647 } // Dzierzan
 voxel "SWVOXFIL/0648.KVX" { tile 648 } // Dzierzan
 voxel "SWVOXFIL/0656.KVX" { tile 656 }
 voxel "SWVOXFIL/0657.KVX" { tile 657 }
 voxel "SWVOXFIL/0658.KVX" { tile 658 } // Dzierzan
-voxel "SWVOXFIL/0670.KVX" { tile 670 }
-voxel "SWVOXFIL/0671.KVX" { tile 671 }
+voxel "SWVOXFIL/0670.KVX" { tile 670 } // mxrtxn
+voxel "SWVOXFIL/0671.KVX" { tile 671 } // mxrtxn
 voxel "SWVOXFIL/0678.KVX" { tile 678 } // Dzierzan
-voxel "SWVOXFIL/0683.KVX" { tile 683 }
+voxel "SWVOXFIL/0683.KVX" { tile 683 } // mxrtxn
 voxel "SWVOXFIL/0684.KVX" { tile 684 } // Dzierzan
-voxel "SWVOXFIL/0685.KVX" { tile 685 }
+voxel "SWVOXFIL/0685.KVX" { tile 685 } // mxrtxn
 voxel "SWVOXFIL/0686.KVX" { tile 686 } // Dzierzan
 voxel "SWVOXFIL/0689.KVX" { tile 689 } // mxrtxn
 voxel "SWVOXFIL/0691.KVX" { tile 691 } // Dzierzan
-voxel "SWVOXFIL/0693.KVX" { tile 693 }
-voxel "SWVOXFIL/0693.KVX" { tile 693 }
-voxel "SWVOXFIL/0694.KVX" { tile 694 }
-voxel "SWVOXFIL/0695.KVX" { tile 695 }
-voxel "SWVOXFIL/0696.KVX" { tile 696 }
-voxel "SWVOXFIL/0705.KVX" { tile 705 } //Dzierzan
-voxel "SWVOXFIL/0708.KVX" { tile 708 }
-voxel "SWVOXFIL/0712.KVX" { tile 712 }
-voxel "SWVOXFIL/0713.KVX" { tile 713 }
-voxel "SWVOXFIL/0742.KVX" { tile 742 }
-voxel "SWVOXFIL/0743.KVX" { tile 743 }
+voxel "SWVOXFIL/0693.KVX" { tile 693 } // mxrtxn
+voxel "SWVOXFIL/0694.KVX" { tile 694 } // mxrtxn
+voxel "SWVOXFIL/0695.KVX" { tile 695 } // mxrtxn
+voxel "SWVOXFIL/0696.KVX" { tile 696 } // mxrtxn
+voxel "SWVOXFIL/0705.KVX" { tile 705 } // Dzierzan
+voxel "SWVOXFIL/0708.KVX" { tile 708 } // mxrtxn
+voxel "SWVOXFIL/0712.KVX" { tile 712 } // mxrtxn
+voxel "SWVOXFIL/0713.KVX" { tile 713 } // mxrtxn
+voxel "SWVOXFIL/0742.KVX" { tile 742 } // mxrtxn
+voxel "SWVOXFIL/0743.KVX" { tile 743 } // mxrtxn
 voxel "SWVOXFIL/0766.KVX" { tile0 766 tile1 767 } // Dzierzan
 voxel "SWVOXFIL/2152.KVX" { tile 2152 } // Dzierzan
 voxel "SWVOXFIL/2153.KVX" { tile 2153 } // Dzierzan
@@ -119,58 +116,54 @@ voxel "SWVOXFIL/2184.KVX" { tile 2184 } // Dzierzan
 voxel "SWVOXFIL/2185.KVX" { tile 2185 } // Dzierzan
 voxel "SWVOXFIL/2186.KVX" { tile 2186 } // Dzierzan
 voxel "SWVOXFIL/2187.KVX" { tile 2187 } // Dzierzan
-voxel "SWVOXFIL/2219.KVX" { tile 2219 }
-voxel "SWVOXFIL/2640.KVX" { tile 2640 }
-voxel "SWVOXFIL/2680.KVX" { tile 2680 }
-voxel "SWVOXFIL/2681.KVX" { tile 2681 }
-voxel "SWVOXFIL/2682.KVX" { tile 2682 }
-voxel "SWVOXFIL/2683.KVX" { tile 2683 }
-voxel "SWVOXFIL/2684.KVX" { tile 2684 }
-voxel "SWVOXFIL/2685.KVX" { tile 2685 }
-voxel "SWVOXFIL/2700.KVX" { tile 2700 }
-voxel "SWVOXFIL/2701.KVX" { tile 2701 }
-voxel "SWVOXFIL/2702.KVX" { tile 2702 }
-voxel "SWVOXFIL/2703.KVX" { tile 2703 }
-voxel "SWVOXFIL/2704.KVX" { tile 2704 }
-voxel "SWVOXFIL/2705.KVX" { tile 2705 }
-//voxel "SWVOXFIL/2725.KVX" { tile 2725 } //Head gib
+voxel "SWVOXFIL/2219.KVX" { tile 2219 } // mxrtxn
+voxel "SWVOXFIL/2640.KVX" { tile 2640 } // mxrtxn
+voxel "SWVOXFIL/2680.KVX" { tile 2680 } // mxrtxn
+voxel "SWVOXFIL/2681.KVX" { tile 2681 } // mxrtxn
+voxel "SWVOXFIL/2682.KVX" { tile 2682 } // mxrtxn
+voxel "SWVOXFIL/2683.KVX" { tile 2683 } // mxrtxn
+voxel "SWVOXFIL/2684.KVX" { tile 2684 } // mxrtxn
+voxel "SWVOXFIL/2685.KVX" { tile 2685 } // mxrtxn
+voxel "SWVOXFIL/2700.KVX" { tile 2700 } // mxrtxn
+voxel "SWVOXFIL/2701.KVX" { tile 2701 } // mxrtxn
+voxel "SWVOXFIL/2702.KVX" { tile 2702 } // mxrtxn
+voxel "SWVOXFIL/2703.KVX" { tile 2703 } // mxrtxn
+voxel "SWVOXFIL/2704.KVX" { tile 2704 } // mxrtxn
+voxel "SWVOXFIL/2705.KVX" { tile 2705 } // mxrtxn
 voxel "SWVOXFIL/2737.KVX" { tile 2737 }
 voxel "SWVOXFIL/2738.KVX" { tile 2738 }
-voxel "SWVOXFIL/2739.KVX" { tile 2739 }
+voxel "SWVOXFIL/2739.KVX" { tile 2739 } // mxrtxn
 voxel "SWVOXFIL/2781.KVX" { tile 2781 }
-voxel "SWVOXFIL/3038.KVX" { tile 3038 }
-voxel "SWVOXFIL/3039.KVX" { tile 3039 }
-voxel "SWVOXFIL/3040.KVX" { tile 3040 }
-voxel "SWVOXFIL/3041.KVX" { tile 3041 }
-voxel "SWVOXFIL/3042.KVX" { tile 3042 }
+voxel "SWVOXFIL/3038.KVX" { tile 3038 } // mxrtxn
+voxel "SWVOXFIL/3039.KVX" { tile 3039 } // mxrtxn
+voxel "SWVOXFIL/3040.KVX" { tile 3040 } // mxrtxn
+voxel "SWVOXFIL/3041.KVX" { tile 3041 } // mxrtxn
+voxel "SWVOXFIL/3042.KVX" { tile 3042 } // mxrtxn
 voxel "SWVOXFIL/3354.KVX" { tile 3354 }
-voxel "SWVOXFIL/3356.KVX" { tile 3356 }
-voxel "SWVOXFIL/3358.KVX" { tile 3358 }
-voxel "SWVOXFIL/3449.KVX" { tile 3449 }
-voxel "SWVOXFIL/3450.KVX" { tile 3450 }
-voxel "SWVOXFIL/3496.KVX" { tile 3496 }
-voxel "SWVOXFIL/3497.KVX" { tile 3497 }
-voxel "SWVOXFIL/3509.KVX" { tile 3509 }
+voxel "SWVOXFIL/3356.KVX" { tile 3356 } // mxrtxn
+voxel "SWVOXFIL/3358.KVX" { tile 3358 } // mxrtxn
+voxel "SWVOXFIL/3449.KVX" { tile 3449 } // mxrtxn
+voxel "SWVOXFIL/3450.KVX" { tile 3450 } // mxrtxn
+voxel "SWVOXFIL/3496.KVX" { tile 3496 } // mxrtxn
+voxel "SWVOXFIL/3497.KVX" { tile 3497 } // mxrtxn
+voxel "SWVOXFIL/3509.KVX" { tile 3509 } // mxrtxn
 voxel "SWVOXFIL/3524.KVX" { tile 3524 }
-voxel "SWVOXFIL/3548.KVX" { tile 3548 }
-voxel "SWVOXFIL/3557.KVX" { tile 3557 }
-voxel "SWVOXFIL/3558.KVX" { tile 3558 }
-voxel "SWVOXFIL/3576.KVX" { tile 3576 }
-voxel "SWVOXFIL/3579.KVX" { tile 3579 }
-voxel "SWVOXFIL/3580.KVX" { tile 3580 }
-voxel "SWVOXFIL/3589.KVX" { tile 3589 }
-voxel "SWVOXFIL/3590.KVX" { tile 3590 }
-//voxel "SWVOXFIL/4226.KVX" { tile 4226 } //Dead Evil Ninja
-//voxel "SWVOXFIL/4312.KVX" { tile 4312 } //Coolie Dead Body
+voxel "SWVOXFIL/3548.KVX" { tile 3548 } // mxrtxn
+voxel "SWVOXFIL/3557.KVX" { tile 3557 } // mxrtxn
+voxel "SWVOXFIL/3558.KVX" { tile 3558 } // mxrtxn
+voxel "SWVOXFIL/3576.KVX" { tile 3576 } // mxrtxn
+voxel "SWVOXFIL/3579.KVX" { tile 3579 } // mxrtxn
+voxel "SWVOXFIL/3580.KVX" { tile 3580 } // mxrtxn
+voxel "SWVOXFIL/3589.KVX" { tile 3589 } // mxrtxn
+voxel "SWVOXFIL/3590.KVX" { tile 3590 } // mxrtxn
 voxel "SWVOXFIL/4886.KVX" { tile 4886 }
-voxel "SWVOXFIL/4947.KVX" { tile 4947 }
+voxel "SWVOXFIL/4947.KVX" { tile 4947 } // mxrtxn
 voxel "SWVOXFIL/4994.KVX" { tile 4994 } // Dzierzan
-voxel "SWVOXFIL/5042.KVX" { tile 5042 }
-voxel "SWVOXFIL/5043.KVX" { tile 5043 }
-voxel "SWVOXFIL/5060.KVX" { tile 5060 }
-voxel "SWVOXFIL/5061.KVX" { tile 5061 }
-voxel "SWVOXFIL/5062.KVX" { tile 5062 }
-voxel "SWVOXFIL/5063.KVX" { tile 5063 }
-voxel "SWVOXFIL/5077.KVX" { tile 5077 }
-//voxel "SWVOXFIL/5205.KVX" { tile 5205 } //Dead Female Ninja
-voxel "SWVOXFIL/5800.KVX" { tile 5800 }
+voxel "SWVOXFIL/5042.KVX" { tile 5042 } // mxrtxn
+voxel "SWVOXFIL/5043.KVX" { tile 5043 } // mxrtxn
+voxel "SWVOXFIL/5060.KVX" { tile 5060 } // mxrtxn
+voxel "SWVOXFIL/5061.KVX" { tile 5061 } // mxrtxn
+voxel "SWVOXFIL/5062.KVX" { tile 5062 } // Kada Lebowski
+voxel "SWVOXFIL/5063.KVX" { tile 5063 } // mxrtxn
+voxel "SWVOXFIL/5077.KVX" { tile 5077 } // mxrtxn
+voxel "SWVOXFIL/5800.KVX" { tile 5800 } // mxrtxn

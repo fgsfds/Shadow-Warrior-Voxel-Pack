@@ -54,7 +54,9 @@ CREDITS
    mxrtxn
    ReaperMan
    Dzierzan
-   unknown authors
+   fgsfds
+   When I Was Young, TNE, The last warrior, Park (a team who used to make addons for Shadow Warrior)
+   Kada Lewobski
 
 > All voxels based on work by 
    3D Realms
@@ -64,10 +66,14 @@ CREDITS
 CHANGELOG
 ============================================================================================
 
-Version 0.03 (TBA)
+Version ?.?? (TBA)
 ---------------------------
-- More voxels from mxrtxn
-
+- Added new voxels by mxrtxn
+- Added new voxels by Dzierzan
+- Huge overhaul of many voxels which improves shading and shape (by Dzierzan)
+- Moved voxels of enemies to own folder.
+- Unified voxels, so there's only one folder with voxels.
+- Removed unfinished voxels.
 
 Version 0.02 (23.05.2020)
 ---------------------------

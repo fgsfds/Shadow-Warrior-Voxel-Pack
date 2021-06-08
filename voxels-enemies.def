@@ -1,0 +1,17 @@
+//Coolie
+
+voxel "SWVOXFIL/Enemies/4312.KVX" { tile 4312 }
+
+//Evil Ninja
+
+voxel "SWVOXFIL/Enemies/4104.KVX" { tile 4104 }
+voxel "SWVOXFIL/Enemies/4105.KVX" { tile 4105 }
+voxel "SWVOXFIL/Enemies/4106.KVX" { tile 4106 }
+voxel "SWVOXFIL/Enemies/4107.KVX" { tile 4107 }
+voxel "SWVOXFIL/Enemies/4116.KVX" { tile 4116 }
+voxel "SWVOXFIL/Enemies/4107.KVX" { tile 4107 }
+voxel "SWVOXFIL/Enemies/5205.KVX" { tile 5205 }
+
+//Female Evil Ninja
+
+voxel "SWVOXFIL/Enemies/4226.KVX" { tile 4226 }
