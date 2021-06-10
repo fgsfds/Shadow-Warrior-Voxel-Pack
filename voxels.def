@@ -96,8 +96,8 @@ voxel "SWVOXFIL/0689.KVX" { tile 689 } // mxrtxn
 voxel "SWVOXFIL/0691.KVX" { tile 691 } // Dzierzan
 voxel "SWVOXFIL/0693.KVX" { tile 693 } // mxrtxn
 voxel "SWVOXFIL/0694.KVX" { tile 694 } // Dzierzan
-voxel "SWVOXFIL/0695.KVX" { tile 695 } // mxrtxn
-voxel "SWVOXFIL/0696.KVX" { tile 696 } // mxrtxn
+//voxel "SWVOXFIL/0695.KVX" { tile 695 } // mxrtxn // TO BE IMPROVED
+//voxel "SWVOXFIL/0696.KVX" { tile 696 } // mxrtxn // TO BE IMPROVED
 voxel "SWVOXFIL/0705.KVX" { tile 705 } // Dzierzan
 voxel "SWVOXFIL/0708.KVX" { tile 708 } // mxrtxn
 voxel "SWVOXFIL/0712.KVX" { tile 712 } // mxrtxn
@@ -121,12 +121,12 @@ voxel "SWVOXFIL/2186.KVX" { tile 2186 } // Dzierzan
 voxel "SWVOXFIL/2187.KVX" { tile 2187 } // Dzierzan
 voxel "SWVOXFIL/2219.KVX" { tile 2219 } // mxrtxn
 voxel "SWVOXFIL/2640.KVX" { tile 2640 } // mxrtxn
-voxel "SWVOXFIL/2680.KVX" { tile 2680 } // mxrtxn
-voxel "SWVOXFIL/2681.KVX" { tile 2681 } // mxrtxn
-voxel "SWVOXFIL/2682.KVX" { tile 2682 } // mxrtxn
-voxel "SWVOXFIL/2683.KVX" { tile 2683 } // mxrtxn
-voxel "SWVOXFIL/2684.KVX" { tile 2684 } // mxrtxn
-voxel "SWVOXFIL/2685.KVX" { tile 2685 } // mxrtxn
+//voxel "SWVOXFIL/2680.KVX" { tile 2680 } // mxrtxn // TO BE IMPROVED
+//voxel "SWVOXFIL/2681.KVX" { tile 2681 } // mxrtxn // TO BE IMPROVED
+//voxel "SWVOXFIL/2682.KVX" { tile 2682 } // mxrtxn // TO BE IMPROVED
+//voxel "SWVOXFIL/2683.KVX" { tile 2683 } // mxrtxn // TO BE IMPROVED
+//voxel "SWVOXFIL/2684.KVX" { tile 2684 } // mxrtxn // TO BE IMPROVED
+//voxel "SWVOXFIL/2685.KVX" { tile 2685 } // mxrtxn // TO BE IMPROVED
 voxel "SWVOXFIL/2700.KVX" { tile 2700 } // mxrtxn
 voxel "SWVOXFIL/2701.KVX" { tile 2701 } // mxrtxn
 voxel "SWVOXFIL/2702.KVX" { tile 2702 } // mxrtxn

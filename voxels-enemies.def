@@ -15,3 +15,7 @@ voxel "SWVOXFIL/Enemies/5205.KVX" { tile 5205 }
 //Female Evil Ninja
 
 voxel "SWVOXFIL/Enemies/4226.KVX" { tile 4226 }
+
+//Snake
+
+voxel "SWVOXFIL/Enemies/0969.KVX" { tile 0969 }
