@@ -77,7 +77,12 @@ voxel "SWVOXFIL/0591.KVX" { tile 591 } // mxrtxn
 voxel "SWVOXFIL/0592.KVX" { tile 592 } // mxrtxn
 voxel "SWVOXFIL/0613.KVX" { tile 613 } // Dzierzan
 voxel "SWVOXFIL/0614.KVX" { tile 614 } // mxrtxn
-voxel "SWVOXFIL/0623.KVX" { tile 623 }
+voxel "SWVOXFIL/0618.KVX" { tile 618 } // mxrtxn & Dzierzan
+voxel "SWVOXFIL/0619.KVX" { tile 619 } // mxrtxn & Dzierzan
+voxel "SWVOXFIL/0620.KVX" { tile 620 } // mxrtxn & Dzierzan
+voxel "SWVOXFIL/0621.KVX" { tile 621 } // mxrtxn & Dzierzan
+voxel "SWVOXFIL/0622.KVX" { tile 622 } // mxrtxn & Dzierzan
+voxel "SWVOXFIL/0623.KVX" { tile 623 } // mxrtxn & Dzierzan
 voxel "SWVOXFIL/0643.KVX" { tile 643 }
 voxel "SWVOXFIL/0646.KVX" { tile 646 } // mxrtxn
 voxel "SWVOXFIL/0647.KVX" { tile 647 } // Dzierzan
