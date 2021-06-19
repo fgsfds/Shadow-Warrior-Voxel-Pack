@@ -64,6 +64,7 @@ voxel "SWVOXFIL/0538.KVX" { tile 538 } // mxrtxn
 voxel "SWVOXFIL/0539.KVX" { tile 539 } // mxrtxn
 voxel "SWVOXFIL/0540.KVX" { tile 540 } // mxrtxn
 voxel "SWVOXFIL/0549.KVX" { tile 549 }
+voxel "SWVOXFIL/0550.KVX" { tile 550 } // mxrtxn
 voxel "SWVOXFIL/0551.KVX" { tile 551 }
 voxel "SWVOXFIL/0552.KVX" { tile 552 }
 voxel "SWVOXFIL/0553.KVX" { tile 553 }
