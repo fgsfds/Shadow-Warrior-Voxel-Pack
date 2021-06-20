@@ -1,2 +1,3 @@
 include voxels.def
+include maphacks/maphacks.def
 //include voxels-enemies.def

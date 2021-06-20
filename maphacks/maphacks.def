@@ -1,0 +1,7 @@
+#######SHAREWARE########
+
+mapinfo {
+  mapfile  "$BULLET.MAP"
+  mapmd4   d7ef66c0914fbadeed4b12269898fb1d
+  mhkfile  "maphacks/01_enter_the_wang/$BULLET.mhk"
+}

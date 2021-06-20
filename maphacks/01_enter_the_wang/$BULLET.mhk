@@ -1,0 +1,25 @@
+sprite 43  angoff 756 	#tilenum 2540 trashbin
+sprite 118 angoff 1024 	#tilenum 0623 beacon
+sprite 119 angoff 1024 	#tilenum 0623 beacon
+sprite 120 angoff 1024 	#tilenum 0623 beacon
+sprite 121 angoff 1024 	#tilenum 0623 beacon
+sprite 192 angoff 512 	#tilenum 0623 beacon
+sprite 251 angoff -512	#tilenum 0623 beacon
+sprite 255 angoff 256	#tilenum 2540 trashbin
+sprite 266 angoff 1024  #tilenum 0504 desk lamp
+sprite 285 angoff -512  #tilenum 0623 beacon
+sprite 286 angoff -512  #tilenum 0623 beacon
+sprite 389 angoff 256   #tilenum 0656 oil
+sprite 394 angoff -512  #tilenum 0646 reflector lamp
+sprite 466 angoff 512 	#tilenum 0623 beacon
+sprite 467 angoff 512	#tilenum 0623 beacon
+sprite 468 angoff 512 	#tilenum 0623 beacon
+sprite 582 angoff 1024 	#tilenum 0614 chair
+sprite 689 angoff 256	#tilenum 5062 punching stick
+sprite 738 angoff 256   #tilenum 5063 punching dummy
+sprite 759 angoff -1024	#tilenum 0766 parking meter
+sprite 779 angoff -512	#tilenum 0766 parking meter
+sprite 805 angoff -512	#tilenum 0766 parking meter
+sprite 809 angoff -512	#tilenum 0766 parking meter
+sprite 810 angoff -1024	#tilenum 0766 parking meter
+sprite 811 angoff -1024	#tilenum 0766 parking meter
