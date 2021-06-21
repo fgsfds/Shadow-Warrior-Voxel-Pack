@@ -1,0 +1,49 @@
+sprite 233   angoff 1024 	#tilenum 703 deity statue
+sprite 262   angoff 512 	#tilenum 688 medium rock
+sprite 351   angoff 384 	#tilenum 688 medium rock
+sprite 374   angoff -256 	#tilenum 712 fireworks barrel
+sprite 378   angoff 128 	#tilenum 712 fireworks barrel
+sprite 381   angoff 512 	#tilenum 712 fireworks barrel
+sprite 386   angoff -640 	#tilenum 712 fireworks barrel
+sprite 413   angoff 128 	#tilenum 712 fireworks barrel
+sprite 468   angoff 512 	#tilenum 367 skeleton
+sprite 469   angoff 640 	#tilenum 367 skeleton
+sprite 585   angoff 1024 	#tilenum 365 ancient idol statue
+sprite 738   angoff 1408 	#tilenum 371 pine tree
+sprite 869   angoff -384 	#tilenum 687 medium tall rock
+sprite 870   angoff -1024 	#tilenum 695 medium tall rock
+sprite 871   angoff 1152 	#tilenum 393 dead tree
+sprite 872   angoff 0 		#tilenum 393 dead tree
+sprite 873   angoff 640 	#tilenum 393 dead tree
+sprite 874   angoff 640 	#tilenum 367 skeleton
+sprite 875   angoff 512 	#tilenum 393 dead tree
+sprite 876   angoff 1408 	#tilenum 393 dead tree
+sprite 877   angoff 1280 	#tilenum 687 medium tall rock
+sprite 878   angoff 1536 	#tilenum 687 medium tall rock
+sprite 879   angoff 896 	#tilenum 688 medium rock
+sprite 880   angoff -768 	#tilenum 695 small rock
+sprite 881   angoff -1536 	#tilenum 687 medium tall rock
+sprite 882   angoff -1024 	#tilenum 688 medium rock
+sprite 883   angoff -128 	#tilenum 688 medium rock
+sprite 884   angoff -896 	#tilenum 688 medium rock
+sprite 885   angoff -896 	#tilenum 371 pine tree
+sprite 886   angoff -128 	#tilenum 371 pine tree
+sprite 928   angoff -512 	#tilenum 712 fireworks barrel
+sprite 929   angoff -128 	#tilenum 712 fireworks barrel
+sprite 931   angoff 768 	#tilenum 712 fireworks barrel
+sprite 962   angoff -384 	#tilenum 712 fireworks barrel
+sprite 963   angoff -128 	#tilenum 3551 chain cuff
+sprite 964   angoff -384 	#tilenum 3551 chain cuff
+sprite 978   angoff -128 	#tilenum 712 fireworks barrel
+sprite 1181  angoff 512 	#tilenum 712 fireworks barrel
+sprite 1210  angoff -896 	#tilenum 712 fireworks barrel
+sprite 1220  angoff 256 	#tilenum 385 bloody skeleton
+sprite 1221  angoff 384 	#tilenum 385 bloody head
+sprite 1222  angoff -384 	#tilenum 368 bloody skeleton
+sprite 1223  angoff 512 	#tilenum 367 skeleton
+sprite 1224  angoff 512 	#tilenum 385 bloody head
+sprite 1252  angoff -256 	#tilenum 3554 chain cuff
+sprite 1253  angoff 128 	#tilenum 3554 chain cuff
+sprite 1254  angoff -896 	#tilenum 1254 dead bunny head
+sprite 1412  angoff 384 	#tilenum 711 sea algae
+sprite 1413  angoff -768 	#tilenum 711 sea algae
