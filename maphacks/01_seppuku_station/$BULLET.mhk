@@ -14,6 +14,7 @@ sprite 394 angoff -512  #tilenum 0646 reflector lamp
 sprite 466 angoff 512 	#tilenum 0623 beacon
 sprite 467 angoff 512	#tilenum 0623 beacon
 sprite 468 angoff 512 	#tilenum 0623 beacon
+sprite 544 angoff 1256 	#tilenum 2540 trashbin
 sprite 582 angoff 1024 	#tilenum 0614 chair
 sprite 689 angoff 256	#tilenum 5062 punching stick
 sprite 738 angoff 256   #tilenum 5063 punching dummy
