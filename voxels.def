@@ -176,6 +176,10 @@ voxel "SWVOXFIL/3356.KVX" { tile 3356 } // mxrtxn
 voxel "SWVOXFIL/3358.KVX" { tile 3358 } // mxrtxn
 voxel "SWVOXFIL/3449.KVX" { tile 3449 } // mxrtxn
 voxel "SWVOXFIL/3450.KVX" { tile 3450 } // Dzierzan
+voxel "SWVOXFIL/3468.KVX" { tile 3468 } // Dzierzan
+voxel "SWVOXFIL/3469.KVX" { tile 3469 } // Dzierzan
+voxel "SWVOXFIL/3470.KVX" { tile 3470 } // Dzierzan
+voxel "SWVOXFIL/3471.KVX" { tile 3471 } // Dzierzan
 voxel "SWVOXFIL/3472.KVX" { tile 3472 } // Dzierzan
 voxel "SWVOXFIL/3473.KVX" { tile 3473 } // Dzierzan
 voxel "SWVOXFIL/3496.KVX" { tile 3496 } // mxrtxn
