@@ -61,6 +61,10 @@ CREDITS
 > All voxels based on work by 
    3D Realms
 
+> Maphacks
+   Dzierzan
+   Ninjakitty
+
 
 ============================================================================================
 CHANGELOG
@@ -74,6 +78,7 @@ Version ?.?? (TBA)
 - Moved voxels of enemies to own folder.
 - Unified voxels, so there's only one folder with voxels.
 - Removed unfinished voxels.
+- Added maphacks
 
 Version 0.02 (23.05.2020)
 ---------------------------
