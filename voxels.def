@@ -56,7 +56,7 @@ voxel "SWVOXFIL/0507.KVX" { tile 507 } // mxrtxn
 voxel "SWVOXFIL/0508.KVX" { tile 508 } // Dzierzan
 voxel "SWVOXFIL/0509.KVX" { tile 509 } // mxrtxn
 voxel "SWVOXFIL/0510.KVX" { tile 510 } // mxrtxn
-voxel "SWVOXFIL/0511.KVX" { tile 511 } // mxrtxn
+voxel "SWVOXFIL/0511.KVX" { tile 511 } // Dzierzan
 voxel "SWVOXFIL/0519.KVX" { tile 519 } // mxrtxn
 voxel "SWVOXFIL/0520.KVX" { tile 520 } // mxrtxn
 voxel "SWVOXFIL/0537.KVX" { tile 537 } // mxrtxn
@@ -73,7 +73,7 @@ voxel "SWVOXFIL/0579.KVX" { tile 579 } // ReaperMan
 voxel "SWVOXFIL/0580.KVX" { tile 580 } // ReaperMan
 voxel "SWVOXFIL/0581.KVX" { tile 581 } // mxrtxn
 voxel "SWVOXFIL/0582.KVX" { tile 582 } // mxrtxn
-voxel "SWVOXFIL/0590.KVX" { tile 590 } // fgsfds
+voxel "SWVOXFIL/0590.KVX" { tile 590 } // Dzierzan
 voxel "SWVOXFIL/0591.KVX" { tile 591 } // mxrtxn
 voxel "SWVOXFIL/0592.KVX" { tile 592 } // mxrtxn
 voxel "SWVOXFIL/0613.KVX" { tile 613 } // Dzierzan

@@ -54,7 +54,6 @@ CREDITS
    mxrtxn
    ReaperMan
    Dzierzan
-   fgsfds
    When I Was Young, TNE, The last warrior, Park (a team who used to make addons for Shadow Warrior)
    Kada Lewobski
 
