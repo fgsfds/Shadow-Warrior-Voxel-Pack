@@ -210,7 +210,7 @@ voxel "SWVOXFIL/5042.KVX" { tile 5042 } // mxrtxn
 voxel "SWVOXFIL/5043.KVX" { tile 5043 } // mxrtxn
 voxel "SWVOXFIL/5060.KVX" { tile 5060 } // mxrtxn
 voxel "SWVOXFIL/5061.KVX" { tile 5061 } // mxrtxn
-voxel "SWVOXFIL/5062.KVX" { tile 5062 } // Kada Lebowski
+voxel "SWVOXFIL/5062.KVX" { tile 5062 } // Dzierzan
 voxel "SWVOXFIL/5063.KVX" { tile 5063 } // mxrtxn
 voxel "SWVOXFIL/5077.KVX" { tile 5077 } // mxrtxn
 voxel "SWVOXFIL/5097.KVX" { tile 5097 } // Dzierzan
