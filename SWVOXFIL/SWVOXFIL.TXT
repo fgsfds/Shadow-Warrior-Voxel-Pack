@@ -178,7 +178,7 @@
 0481 168 0481.kvx
 2725 169 2725x.kvx #Head gib
 4312 170 4312x.kvx #Coolie Dead Body
-0604 171 0604x.kvx #Totally different model
+0604 171 0604.kvx
 0409 172 0409.kvx
 0519 173 0519.kvx
 3557 174 3557.kvx
