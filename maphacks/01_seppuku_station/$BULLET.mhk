@@ -1,26 +1,47 @@
 sprite 43  angoff 756 	#tilenum 2540 trashbin
+sprite 91  angoff 256 	#tilenum 3578 potted plant
 sprite 118 angoff 1024 	#tilenum 0623 beacon
 sprite 119 angoff 1024 	#tilenum 0623 beacon
 sprite 120 angoff 1024 	#tilenum 0623 beacon
 sprite 121 angoff 1024 	#tilenum 0623 beacon
 sprite 192 angoff 512 	#tilenum 0623 beacon
+sprite 220 angoff 256	#tilenum 3578 potted plant
 sprite 251 angoff -512	#tilenum 0623 beacon
-sprite 255 angoff 256	#tilenum 2540 trashbin
-sprite 266 angoff 1024  #tilenum 0504 desk lamp
+sprite 255 angoff 384	#tilenum 2540 trashbin
+sprite 264 angoff 512   #tilenum 2682 suitcase
+sprite 265 angoff -768  #tilenum 3578 potted plant
+sprite 266 angoff -256  #tilenum 0504 desk lamp
 sprite 285 angoff -512  #tilenum 0623 beacon
 sprite 286 angoff -512  #tilenum 0623 beacon
-sprite 389 angoff 256   #tilenum 0656 oil
-sprite 394 angoff -512  #tilenum 0646 reflector lamp
+sprite 319 angoff -128  #tilenum 4312 dead ghost
+sprite 320 angoff -512  #tilenum 4312 dead ghost
+sprite 321 angoff -768  #tilenum 2726 bloody skull
+sprite 322 angoff 512   #tilenum 2726 decapitated head
+sprite 327 angoff -512  #tilenum 0385 bloody head
+sprite 328 angoff -512  #tilenum 0367 skeleton
+sprite 329 angoff -1024 #tilenum 0368 bloody skeleton
+sprite 390 angoff 128   #tilenum 0648 gas canister
+sprite 393 angoff 256   #tilenum 0649 crane hook
+sprite 394 angoff -384  #tilenum 0646 reflector lamp
+sprite 465 angoff -512 	#tilenum 385 bloody head
 sprite 466 angoff 512 	#tilenum 0623 beacon
 sprite 467 angoff 512	#tilenum 0623 beacon
 sprite 468 angoff 512 	#tilenum 0623 beacon
+sprite 503 angoff 128 	#tilenum 2680 dufflebag
+sprite 533 angoff -768 	#tilenum 0511 pot
 sprite 544 angoff 1256 	#tilenum 2540 trashbin
-sprite 582 angoff 1024 	#tilenum 0614 chair
+sprite 565 angoff 640 	#tilenum 2685 dufflebag
+sprite 571 angoff 640 	#tilenum 2683 tiny suitcase
+sprite 572 angoff 512 	#tilenum 2684 suitcase
+sprite 582 angoff -896 	#tilenum 0614 chair
+sprite 591 angoff -768 	#tilenum 2637 dead ghost
 sprite 689 angoff 256	#tilenum 5062 punching stick
+sprite 724 angoff 1024  #tilenum 2700 lamp
 sprite 738 angoff 256   #tilenum 5063 punching dummy
-sprite 759 angoff -1024	#tilenum 0766 parking meter
-sprite 779 angoff -512	#tilenum 0766 parking meter
-sprite 805 angoff -512	#tilenum 0766 parking meter
-sprite 809 angoff -512	#tilenum 0766 parking meter
-sprite 810 angoff -1024	#tilenum 0766 parking meter
-sprite 811 angoff -1024	#tilenum 0766 parking meter
+sprite 739 angoff 1024  #tilenum 2702 lamp
+sprite 759 angoff -512	#tilenum 0766 parking meter
+sprite 810 angoff -512	#tilenum 0766 parking meter
+sprite 811 angoff -512	#tilenum 0766 parking meter
+sprite 821 angoff -512	#tilenum 2701 lamp
+sprite 822 angoff -512	#tilenum 2704 lamp
+sprite 837 angoff -512	#tilenum 2703 lamp

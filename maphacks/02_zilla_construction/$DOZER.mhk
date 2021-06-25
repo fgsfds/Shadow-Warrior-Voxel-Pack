@@ -49,7 +49,7 @@ sprite 955   angoff 512 	#tilenum 509 tea cup
 sprite 956   angoff 384 	#tilenum 504 desk lamp
 sprite 962   angoff 1024 	#tilenum 493 office chair
 sprite 1113  angoff -896 	#tilenum 648 gas canister
-sprite 1125  angoff 896 	#tilenum 648 gas canister
+sprite 1125  angoff 512 	#tilenum 648 gas canister
 sprite 1212  angoff 640 	#tilenum 649 crane hook
 sprite 1364  angoff 384 	#tilenum 379 bonsai tree
 sprite 1361  angoff -256 	#tilenum 379 bonsai tree

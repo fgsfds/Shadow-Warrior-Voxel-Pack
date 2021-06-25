@@ -1,0 +1,82 @@
+sprite 8     angoff 1536 	#tilenum 3571 tree
+sprite 237   angoff 1024 	#tilenum 0443 rock lantern
+sprite 240   angoff 256 	#tilenum 0370 large grass
+sprite 246   angoff 1024 	#tilenum 0443 rock lantern
+sprite 270   angoff 512 	#tilenum 0687 small stone
+sprite 271   angoff 512 	#tilenum 0687 large rock
+sprite 272   angoff -512 	#tilenum 0690 cherry tree
+sprite 273   angoff -512 	#tilenum 0379 bonsai tree
+sprite 274   angoff 512 	#tilenum 0379 bonsai tree
+sprite 269   angoff -512 	#tilenum 0696 medium stone
+sprite 303   angoff -512 	#tilenum 0364 grass
+sprite 304   angoff -1408 	#tilenum 0376 tree
+sprite 305   angoff 1280 	#tilenum 0370 large grass
+sprite 306   angoff -512 	#tilenum 0370 large grass
+sprite 307   angoff -768 	#tilenum 0370 large grass
+sprite 374   angoff -128 	#tilenum 0931 exposed brain
+sprite 376   angoff -384 	#tilenum 0916 liver
+sprite 378   angoff -256 	#tilenum 1558 arm
+sprite 382   angoff -256 	#tilenum 0698 small stone
+sprite 384   angoff 1024 	#tilenum 4312 dead ghost
+sprite 388   angoff 896 	#tilenum 0379 bonsai tree
+sprite 392   angoff -640 	#tilenum 0376 tree
+sprite 393   angoff -384 	#tilenum 0372 dead tree
+sprite 395   angoff 1024 	#tilenum 0376 tree
+sprite 396   angoff -256 	#tilenum 3571 tree
+sprite 605   angoff -1152 	#tilenum 0687 large rock
+sprite 606   angoff -256 	#tilenum 0688 medium rock
+sprite 607   angoff 1024 	#tilenum 0379 bonsai tree
+sprite 608   angoff 0   	#tilenum 0379 bonsai tree
+sprite 611   angoff 640 	#tilenum 3571 tree
+sprite 681   angoff -384 	#tilenum 0379 bonsai tree
+sprite 682   angoff 384 	#tilenum 0695 small rock
+sprite 683   angoff -1152 	#tilenum 0687 large rock
+sprite 684   angoff 896 	#tilenum 0688 medium rock
+sprite 685   angoff -768 	#tilenum 0688 medium rock
+sprite 686   angoff -256 	#tilenum 0698 stone
+sprite 687   angoff 1024 	#tilenum 0376 tree
+sprite 688   angoff -1536 	#tilenum 3573 bush
+sprite 692   angoff -384 	#tilenum 3573 bush
+sprite 693   angoff -1024 	#tilenum 0376 tree
+sprite 694   angoff -640 	#tilenum 0687 large rock
+sprite 695   angoff 128 	#tilenum 0696 medium stone
+sprite 696   angoff -896 	#tilenum 0688 medium rock
+sprite 697   angoff 1536 	#tilenum 0698 small stone
+sprite 730   angoff 640 	#tilenum 660 large stalagmite
+sprite 731   angoff 1024 	#tilenum 660 large stalagmite
+sprite 749   angoff 768 	#tilenum 660 large stalagmite
+sprite 754   angoff -256 	#tilenum 660 large stalagmite
+sprite 763   angoff -896 	#tilenum 660 large stalagmite
+sprite 820   angoff 640 	#tilenum 3571 tree
+sprite 825   angoff -512 	#tilenum 0443 rock lantern
+sprite 826   angoff -512 	#tilenum 0443 rock lantern
+sprite 861   angoff -512 	#tilenum 1780 dog statue
+sprite 862   angoff -512 	#tilenum 1780 dog statue
+sprite 940   angoff -1024 	#tilenum 0700 vines
+sprite 941   angoff -384 	#tilenum 0700 vines
+sprite 942   angoff 1280 	#tilenum 0700 vines
+sprite 943   angoff -256 	#tilenum 0700 vines
+sprite 944   angoff -1280 	#tilenum 0700 vines
+sprite 945   angoff -640 	#tilenum 0700 vines
+sprite 946   angoff 1024 	#tilenum 0676 bloody body
+sprite 947   angoff 1024 	#tilenum 0385 bloody head
+sprite 948   angoff 896 	#tilenum 4312 dead ghost
+sprite 950   angoff 256 	#tilenum 4312 dead ghost
+sprite 1044  angoff -768 	#tilenum 5062 punching stick
+sprite 1114  angoff -128 	#tilenum 1558 arm
+sprite 1152  angoff -896 	#tilenum 0698 small stone
+sprite 1164  angoff -128 	#tilenum 0367 skeleton
+sprite 1168  angoff -128 	#tilenum 0713 tnt barrel
+sprite 1198  angoff 1152 	#tilenum 0364 grass
+sprite 1199  angoff -1152 	#tilenum 0403 grass
+sprite 1200  angoff 1408 	#tilenum 0364 grass
+sprite 1201  angoff 256 	#tilenum 
+sprite 1236  angoff -128 	#tilenum 4995 helmet
+sprite 1254  angoff -768 	#tilenum 0370 large grass
+sprite 1255  angoff 1152 	#tilenum 0370 large grass
+sprite 1256  angoff -256 	#tilenum 0403 grass
+sprite 1266  angoff 1536 	#tilenum 0364 grass
+sprite 1481  angoff -256 	#tilenum 0460 wind chimes
+sprite 1553  angoff -384 	#tilenum 3573 bush
+sprite 1554  angoff 896 	#tilenum 0372 dead tree
+
