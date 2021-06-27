@@ -212,6 +212,7 @@ voxel "SWVOXFIL/5040.KVX" { tile 5040 } // Dzierzan
 voxel "SWVOXFIL/5041.KVX" { tile 5041 } // Dzierzan
 voxel "SWVOXFIL/5042.KVX" { tile 5042 } // mxrtxn
 voxel "SWVOXFIL/5043.KVX" { tile 5043 } // mxrtxn
+voxel "SWVOXFIL/5050.KVX" { tile 5050 } // Dzierzan
 voxel "SWVOXFIL/5060.KVX" { tile 5060 } // mxrtxn
 voxel "SWVOXFIL/5061.KVX" { tile 5061 } // mxrtxn
 voxel "SWVOXFIL/5062.KVX" { tile 5062 } // Dzierzan
