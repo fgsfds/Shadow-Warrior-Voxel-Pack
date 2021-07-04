@@ -72,6 +72,8 @@ voxel "SWVOXFIL/0551.KVX" { tile 551 }
 voxel "SWVOXFIL/0552.KVX" { tile 552 }
 voxel "SWVOXFIL/0553.KVX" { tile 553 }
 voxel "SWVOXFIL/0554.KVX" { tile 554 }
+voxel "SWVOXFIL/0561.KVX" { tile 561 } // mxrtxn
+voxel "SWVOXFIL/0562.KVX" { tile 562 } // mxrtxn
 voxel "SWVOXFIL/0569.KVX" { tile 569 } // mxrtxn
 voxel "SWVOXFIL/0570.KVX" { tile 570 } // mxrtxn
 voxel "SWVOXFIL/0579.KVX" { tile 579 } // ReaperMan
