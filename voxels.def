@@ -25,6 +25,9 @@ voxel "SWVOXFIL/0409.KVX" { tile 409 } 			  // Wooden pike				// mxrtxn
 voxel "SWVOXFIL/0415.KVX" { tile 415 } 			  // Candle A 					// Dzierzan
 voxel "SWVOXFIL/0416.KVX" { tile 416 } 			  // Candle B 					// Dzierzan
 voxel "SWVOXFIL/0417.KVX" { tile 417 } 			  // Candle C					// Dzierzan
+voxel "SWVOXFIL/0418.KVX" { tile 418 } 			  // Skull candle A				// Dzierzan
+voxel "SWVOXFIL/0419.KVX" { tile 419 } 			  // Skull candle B				// Dzierzan
+voxel "SWVOXFIL/0420.KVX" { tile 420 } 			  // Skull candle C				// Dzierzan
 voxel "SWVOXFIL/0421.KVX" { tile 421 } 			  // Wooden pike				// mxrtxn
 voxel "SWVOXFIL/0428.KVX" { tile 428 } 			  // Banner						// mxrtxn
 voxel "SWVOXFIL/0429.KVX" { tile 429 } 			  // Wooden bloody pike			// mxrtxn
