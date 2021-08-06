@@ -23,7 +23,7 @@ sprite 329 angoff -1024 #tilenum 0368 bloody skeleton
 sprite 390 angoff 128   #tilenum 0648 gas canister
 sprite 393 angoff 256   #tilenum 0649 crane hook
 sprite 394 angoff -384  #tilenum 0646 reflector lamp
-sprite 465 angoff -512 	#tilenum 385 bloody head
+sprite 465 angoff -512 	#tilenum 0385 bloody head
 sprite 466 angoff 512 	#tilenum 0623 beacon
 sprite 467 angoff 512	#tilenum 0623 beacon
 sprite 468 angoff 512 	#tilenum 0623 beacon
@@ -39,6 +39,7 @@ sprite 689 angoff 256	#tilenum 5062 punching stick
 sprite 724 angoff 1024  #tilenum 2700 lamp
 sprite 738 angoff 256   #tilenum 5063 punching dummy
 sprite 739 angoff 1024  #tilenum 2702 lamp
+sprite 764 angoff 512   #tilenum 0366 samurai helmet
 sprite 759 angoff -512	#tilenum 0766 parking meter
 sprite 810 angoff -512	#tilenum 0766 parking meter
 sprite 811 angoff -512	#tilenum 0766 parking meter
