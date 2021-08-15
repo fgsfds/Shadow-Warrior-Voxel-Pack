@@ -88,6 +88,8 @@ voxel "SWVOXFIL/0591.KVX" { tile 591 } 			  // Watering can				// mxrtxn // TO B
 voxel "SWVOXFIL/0592.KVX" { tile 592 } 			  // Handle						// mxrtxn
 voxel "SWVOXFIL/0604.KVX" { tile 604 } 			  // Mop						// Dzierzan
 voxel "SWVOXFIL/0605.KVX" { tile 605 } 			  // Hospital Sign				// Dzierzan
+voxel "SWVOXFIL/0606.KVX" { tile 606 } 			  // Janitor sign				// Dzierzan
+voxel "SWVOXFIL/0607.KVX" { tile 607 } 			  // Medical sign				// Dzierzan
 voxel "SWVOXFIL/0613.KVX" { tile 613 } 			  // Explosive shell			// Dzierzan
 voxel "SWVOXFIL/0614.KVX" { tile 614 } 			  // Chair						// mxrtxn // TO BE IMPROVED
 voxel "SWVOXFIL/0618.KVX" { tile 618 } 			  // Beacon A					// mxrtxn & Dzierzan
