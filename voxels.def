@@ -1,7 +1,9 @@
 voxel "SWVOXFIL/0061.KVX" { tile 61 }  			  // Bar						// mxrtxn
+voxel "SWVOXFIL/0068.KVX" { tile 68 }  			  // Lamp						// Dzierzan
 voxel "SWVOXFIL/0069.KVX" { tile 69 }  			  // Knob						// mxrtxn
 voxel "SWVOXFIL/0081.KVX" { tile 81 }  			  // Radar 						// mxrtxn
 voxel "SWVOXFIL/0084.KVX" { tile 84 }  			  // Pole						// mxrtxn
+voxel "SWVOXFIL/0087.KVX" { tile 87 }  			  // Lamp						// Dzierzan
 voxel "SWVOXFIL/0261.KVX" { tile 261 } 			  // Short pike					// mxrtxn
 voxel "SWVOXFIL/0279.KVX" { tile 279 } 			  // Explosive shells 			// mxrtxn
 voxel "SWVOXFIL/0280.KVX" { tile 280 } 			  // Short pike					// mxrtxn
