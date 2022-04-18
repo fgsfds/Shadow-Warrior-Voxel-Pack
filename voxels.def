@@ -6,6 +6,8 @@ voxel "SWVOXFIL/0084.KVX" { tile 84 }  			  // Pole						// mxrtxn
 voxel "SWVOXFIL/0087.KVX" { tile 87 }  			  // Lamp						// Dzierzan
 voxel "SWVOXFIL/0097.KVX" { tile 97 }  			  // Painting					// Dzierzan
 voxel "SWVOXFIL/0261.KVX" { tile 261 } 			  // Short pike					// mxrtxn
+voxel "SWVOXFIL/0267.KVX" { tile 267 } 			  // Pipe						// Dzierzan
+voxel "SWVOXFIL/0268.KVX" { tile 268 } 			  // Pipe						// Dzierzan
 voxel "SWVOXFIL/0279.KVX" { tile 279 } 			  // Explosive shells 			// mxrtxn
 voxel "SWVOXFIL/0280.KVX" { tile 280 } 			  // Short pike					// mxrtxn
 voxel "SWVOXFIL/0295.KVX" { tile 295 } 			  // Short pike 				// mxrtxn
