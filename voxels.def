@@ -205,6 +205,7 @@ voxel "SWVOXFIL/3472.KVX" { tile 3472 } 		  // Pole						// Dzierzan
 voxel "SWVOXFIL/3473.KVX" { tile 3473 } 		  // Pole						// Dzierzan
 voxel "SWVOXFIL/3496.KVX" { tile 3496 } 		  // Clothes hanger				// Dzierzan
 voxel "SWVOXFIL/3497.KVX" { tile 3497 } 		  // Towel						// mxrtxn
+voxel "SWVOXFIL/3508.KVX" { tile 3508 } 		  // Faucet						// Dzierzan
 voxel "SWVOXFIL/3509.KVX" { tile 3509 } 		  // Hands dryer				// mxrtxn
 voxel "SWVOXFIL/3524.KVX" { tile 3524 } 		  // Bar						// mxrtxn
 voxel "SWVOXFIL/3548.KVX" { tile 3548 } 		  // Condon box					// mxrtxn
