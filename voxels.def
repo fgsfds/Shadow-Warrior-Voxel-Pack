@@ -1,241 +1,241 @@
-voxel "SWVOXFIL/0061.KVX" { tile 61 }  			  // Bar						// mxrtxn
-voxel "SWVOXFIL/0068.KVX" { tile 68 }  			  // Lamp						// Dzierzan
-voxel "SWVOXFIL/0069.KVX" { tile 69 }  			  // Knob						// mxrtxn
-voxel "SWVOXFIL/0081.KVX" { tile 81 }  			  // Radar 						// mxrtxn
-voxel "SWVOXFIL/0084.KVX" { tile 84 }  			  // Pole						// mxrtxn
-voxel "SWVOXFIL/0087.KVX" { tile 87 }  			  // Lamp						// Dzierzan
-voxel "SWVOXFIL/0097.KVX" { tile 97 }  			  // Painting					// Dzierzan
-voxel "SWVOXFIL/0261.KVX" { tile 261 } 			  // Short pike					// mxrtxn
-voxel "SWVOXFIL/0267.KVX" { tile 267 } 			  // Pipe						// Dzierzan
-voxel "SWVOXFIL/0268.KVX" { tile 268 } 			  // Pipe						// Dzierzan
-voxel "SWVOXFIL/0279.KVX" { tile 279 } 			  // Explosive shells 			// mxrtxn
-voxel "SWVOXFIL/0280.KVX" { tile 280 } 			  // Short pike					// mxrtxn
-voxel "SWVOXFIL/0295.KVX" { tile 295 } 			  // Short pike 				// mxrtxn
-voxel "SWVOXFIL/0361.KVX" { tile 361 } 			  // Short bloody pike			// mxrtxn
-voxel "SWVOXFIL/0363.KVX" { tile 363 } 			  // Pot on chain				// mxrtxn
-voxel "SWVOXFIL/0366.KVX" { tile 366 } 			  // Samurai helmet				// mxrtxn
-voxel "SWVOXFIL/0373.KVX" { tile 373 } 			  // Short bloody pike			// mxrtxn
-voxel "SWVOXFIL/0378.KVX" { tile 378 } 			  // Short bloody pike			// mxrtxn
-voxel "SWVOXFIL/0390.KVX" { tile 390 } 			  // Wooden bloody pike 		// mxrtxn
-voxel "SWVOXFIL/0393.KVX" { tile 393 } 			  // Tree 						// mxrtxn
-voxel "SWVOXFIL/0396.KVX" { tile 396 } 			  // Fire pot A					// mxrtxn
-voxel "SWVOXFIL/0397.KVX" { tile 397 } 			  // Fire pot B					// mxrtxn
-voxel "SWVOXFIL/0398.KVX" { tile 398 } 			  // Fire pot C					// mxrtxn
-voxel "SWVOXFIL/0399.KVX" { tile 399 } 			  // Fire pot D					// mxrtxn
-voxel "SWVOXFIL/0401.KVX" { tile 401 } 			  // Tree trunk					// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/0402.KVX" { tile 402 } 			  // Tree trunk					// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/0408.KVX" { tile 408 } 			  // Banner						// mxrtxn
-voxel "SWVOXFIL/0408.KVX" { tile 408 } 			  // Banner						// mxrtxn
-voxel "SWVOXFIL/0409.KVX" { tile 409 } 			  // Wooden pike				// mxrtxn
-voxel "SWVOXFIL/0415.KVX" { tile 415 } 			  // Candle A 					// Dzierzan
-voxel "SWVOXFIL/0416.KVX" { tile 416 } 			  // Candle B 					// Dzierzan
-voxel "SWVOXFIL/0417.KVX" { tile 417 } 			  // Candle C					// Dzierzan
-voxel "SWVOXFIL/0418.KVX" { tile 418 } 			  // Skull candle A				// Dzierzan
-voxel "SWVOXFIL/0419.KVX" { tile 419 } 			  // Skull candle B				// Dzierzan
-voxel "SWVOXFIL/0420.KVX" { tile 420 } 			  // Skull candle C				// Dzierzan
-voxel "SWVOXFIL/0421.KVX" { tile 421 } 			  // Wooden pike				// mxrtxn
-voxel "SWVOXFIL/0428.KVX" { tile 428 } 			  // Banner						// mxrtxn
-voxel "SWVOXFIL/0429.KVX" { tile 429 } 			  // Wooden bloody pike			// mxrtxn
-voxel "SWVOXFIL/0439.KVX" { tile 439 } 			  // Long spear					// mxrtxn
-voxel "SWVOXFIL/0442.KVX" { tile 442 } 			  // Chinese object				// mxrtxn
-//voxel "SWVOXFIL/0443.KVX" { tile 443 } 		  //There's only one sprite for that animated voxel, so it's right now disabled. // mxrtxn
-voxel "SWVOXFIL/0453.KVX" { tile 453 } 			  // Vase with water A			// mxrtxn
-voxel "SWVOXFIL/0454.KVX" { tile 454 } 			  // Vase with water B			// mxrtxn
-voxel "SWVOXFIL/0455.KVX" { tile 455 } 			  // Vase with water C			// mxrtxn
-voxel "SWVOXFIL/0456.KVX" { tile 456 } 			  // Vase with water D			// mxrtxn
-voxel "SWVOXFIL/0460.KVX" { tile 460 } 			  // Wind chime A				// Dzierzan
-voxel "SWVOXFIL/0461.KVX" { tile 461 } 			  // Wind chime B				// Dzierzan
-voxel "SWVOXFIL/0462.KVX" { tile 462 } 			  // Wind chime C				// Dzierzan
-voxel "SWVOXFIL/0463.KVX" { tile 463 } 			  // Stone object				// mxrtxn
-voxel "SWVOXFIL/0468.KVX" { tile 468 } 			  // Flask						// mxrtxn
-voxel "SWVOXFIL/0475.KVX" { tile 475 } 			  // Flask						// mxrtxn
-voxel "SWVOXFIL/0478.KVX" { tile 478 } 			  // Shower						// Dzierzan
-voxel "SWVOXFIL/0481.KVX" { tile 481 } 			  // Wet floor sign				// mxrtxn
-voxel "SWVOXFIL/0486.KVX" { tile 486 } 			  // 220V						// mxrtxn
-voxel "SWVOXFIL/0487.KVX" { tile 487 } 			  // Telephone					// mxrtxn
-voxel "SWVOXFIL/0492.KVX" { tile 492 } 			  // Katanas					// mxrtxn
-voxel "SWVOXFIL/0493.KVX" { tile 493 } 			  // Wheeled chair				// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/0496.KVX" { tile 496 } 			  // Toilet paper				// mxrtxn
-voxel "SWVOXFIL/0498.KVX" { tile 498 } 			  // Soap						// mxrtxn
-voxel "SWVOXFIL/0500.KVX" { tile 500 } 			  // Empty food plate			// mxrtxn
-voxel "SWVOXFIL/0501.KVX" { tile 501 } 			  // Full food plate			// mxrtxn
-voxel "SWVOXFIL/0503.KVX" { tile 503 } 			  // Chopper					// mxrtxn
-voxel "SWVOXFIL/0504.KVX" { tile 504 } 			  // Desk lamp					// mxrtxn
-voxel "SWVOXFIL/0505.KVX" { tile 505 } 			  // Ketchup					// mxrtxn
-voxel "SWVOXFIL/0506.KVX" { tile 506 } 			  // Mustard					// mxrtxn
-voxel "SWVOXFIL/0507.KVX" { tile 507 } 			  // Bottle						// mxrtxn
-voxel "SWVOXFIL/0508.KVX" { tile 508 } 			  // Bowl with rice and shrimps // Dzierzan
-voxel "SWVOXFIL/0509.KVX" { tile 509 } 			  // Cup						// mxrtxn
-voxel "SWVOXFIL/0510.KVX" { tile 510 } 			  // Cup						// mxrtxn
-voxel "SWVOXFIL/0511.KVX" { tile 511 } 			  // Pot						// Dzierzan
-voxel "SWVOXFIL/0519.KVX" { tile 519 } 			  // Chinese lamp				// mxrtxn
-voxel "SWVOXFIL/0520.KVX" { tile 520 } 			  // Pole						// mxrtxn
-voxel "SWVOXFIL/0537.KVX" { tile 537 } 			  // Hanging torch A			// mxrtxn
-voxel "SWVOXFIL/0538.KVX" { tile 538 } 			  // Hanging torch B			// mxrtxn
-voxel "SWVOXFIL/0539.KVX" { tile 539 } 			  // Hanging torch C			// mxrtxn
-voxel "SWVOXFIL/0540.KVX" { tile 540 } 			  // Hanging torch D			// mxrtxn
-voxel "SWVOXFIL/0549.KVX" { tile 549 } 			  // Toro						// mxrtxn
-voxel "SWVOXFIL/0550.KVX" { tile 550 } 			  // Valve						// mxrtxn
-voxel "SWVOXFIL/0551.KVX" { tile 551 } 			  // Light switch on			// mxrtxn
-voxel "SWVOXFIL/0552.KVX" { tile 552 } 			  // Light switch off			// mxrtxn
-voxel "SWVOXFIL/0553.KVX" { tile 553 } 			  // Skull switch A				// mxrtxn
-voxel "SWVOXFIL/0554.KVX" { tile 554 } 			  // Skull switch B				// mxrtxn
-voxel "SWVOXFIL/0561.KVX" { tile 561 } 			  // Level switch A				// mxrtxn
-voxel "SWVOXFIL/0562.KVX" { tile 562 } 			  // Level switch B				// mxrtxn
-voxel "SWVOXFIL/0569.KVX" { tile 569 } 			  // Stone switch A				// mxrtxn
-voxel "SWVOXFIL/0570.KVX" { tile 570 } 			  // Stone switch B				// mxrtxn
-voxel "SWVOXFIL/0579.KVX" { tile 579 } 			  // Twist switch A		 		// ReaperMan // TO BE IMPROVED
-voxel "SWVOXFIL/0580.KVX" { tile 580 } 			  // Twist switch B				// ReaperMan // TO BE IMPROVED
-voxel "SWVOXFIL/0581.KVX" { tile 581 } 			  // Level switch A				// mxrtxn
-voxel "SWVOXFIL/0582.KVX" { tile 582 } 			  // Level switch B				// mxrtxn
-voxel "SWVOXFIL/0590.KVX" { tile 590 } 			  // Pot						// Dzierzan
-voxel "SWVOXFIL/0591.KVX" { tile 591 } 			  // Watering can				// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/0592.KVX" { tile 592 } 			  // Handle						// mxrtxn
-voxel "SWVOXFIL/0604.KVX" { tile 604 } 			  // Mop						// Dzierzan
-voxel "SWVOXFIL/0605.KVX" { tile 605 } 			  // Hospital Sign				// Dzierzan
-voxel "SWVOXFIL/0606.KVX" { tile 606 } 			  // Janitor sign				// Dzierzan
-voxel "SWVOXFIL/0607.KVX" { tile 607 } 			  // Medical sign				// Dzierzan
-voxel "SWVOXFIL/0613.KVX" { tile 613 } 			  // Explosive shell			// Dzierzan
-voxel "SWVOXFIL/0614.KVX" { tile 614 } 			  // Chair						// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/0618.KVX" { tile 618 } 			  // Beacon A					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/0619.KVX" { tile 619 } 			  // Beacon B					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/0620.KVX" { tile 620 } 			  // Beacon C					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/0621.KVX" { tile 621 } 			  // Beacon D					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/0622.KVX" { tile 622 } 			  // Beacon E					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/0623.KVX" { tile 623 } 			  // Beacon F					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/0643.KVX" { tile 643 } 			  // Joystick					// mxrtxn //TO BE IMPROVED
-voxel "SWVOXFIL/0646.KVX" { tile 646 } 			  // Spotlight					// mxrtxn
-voxel "SWVOXFIL/0647.KVX" { tile 647 } 			  // Gas tank					// Dzierzan
-voxel "SWVOXFIL/0648.KVX" { tile 648 } 			  // Gas tank carriage			// Dzierzan
-voxel "SWVOXFIL/0656.KVX" { tile 656 } 			  // Oil						// mxrtxn
-voxel "SWVOXFIL/0657.KVX" { tile 657 } 			  // Screwdriver				// mxrtxn
-voxel "SWVOXFIL/0658.KVX" { tile 658 } 			  // Explosive barrel			// Dzierzan
-voxel "SWVOXFIL/0663.KVX" { tile 663 } 			  // Wrenches					// Dzierzan
-voxel "SWVOXFIL/0664.KVX" { tile 664 } 			  // Wrench						// Dzierzan
-voxel "SWVOXFIL/0670.KVX" { tile 670 } 			  // Hanging torch A			// mxrtxn
-voxel "SWVOXFIL/0671.KVX" { tile 671 } 			  // Hanging torch B			// mxrtxn
-voxel "SWVOXFIL/0672.KVX" { tile 672 } 			  // Chain						// mxrtxn & Dzierzan
-voxel "SWVOXFIL/0678.KVX" { tile 678 } 			  // Bowl						// Dzierzan
-voxel "SWVOXFIL/0679.KVX" { tile 679 } 			  // Red beacon A				// Dzierzan
-voxel "SWVOXFIL/0680.KVX" { tile 680 } 			  // Red beacon B				// Dzierzan
-voxel "SWVOXFIL/0681.KVX" { tile 681 } 			  // Red beacon C				// Dzierzan
-voxel "SWVOXFIL/0682.KVX" { tile 682 } 			  // Red beacon D				// Dzierzan
-voxel "SWVOXFIL/0683.KVX" { tile 683 } 			  // Glass ball					// mxrtxn
-voxel "SWVOXFIL/0684.KVX" { tile 684 } 			  // Big flask					// Dzierzan
-voxel "SWVOXFIL/0685.KVX" { tile 685 } 			  // Blue flask					// mxrtxn
-voxel "SWVOXFIL/0686.KVX" { tile 686 } 			  // Black container			// Dzierzan
-voxel "SWVOXFIL/0689.KVX" { tile 689 } 			  // Trash bin					// mxrtxn
-voxel "SWVOXFIL/0691.KVX" { tile 691 } 			  // Trash bin					// Dzierzan
-voxel "SWVOXFIL/0693.KVX" { tile 693 } 			  // Wooden barrel				// Dzierzan
-voxel "SWVOXFIL/0694.KVX" { tile 694 } 			  // Metal Barrel				// Dzierzan
-//voxel "SWVOXFIL/0695.KVX" { tile 695 } 		  // Stone						// mxrtxn // TO BE IMPROVED
-//voxel "SWVOXFIL/0696.KVX" { tile 696 } 		  // Stone						// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/0705.KVX" { tile 705 } 			  // Trash bin					// Dzierzan
-voxel "SWVOXFIL/0708.KVX" { tile 708 } 			  // Damaged spotlight			// mxrtxn
-voxel "SWVOXFIL/0712.KVX" { tile 712 } 			  // Barrel danger fireworks	// Dzierzan
-voxel "SWVOXFIL/0713.KVX" { tile 713 } 			  // Barrel danger TNT			// Dzierzan
-voxel "SWVOXFIL/0742.KVX" { tile 742 } 			  // Telephone					// mxrtxn
-voxel "SWVOXFIL/0743.KVX" { tile 743 } 			  // Telephone					// mxrtxn
-voxel "SWVOXFIL/0760.KVX" { tile 760 } 			  // Steering wheel				// mxrtxn
-voxel "SWVOXFIL/0766.KVX" { tile0 766 tile1 767 } // Parking meter A			// Dzierzan
-voxel "SWVOXFIL/0820.KVX" { tile0 820 tile1 824 } // Red skull					// Dzierzan
-voxel "SWVOXFIL/1768.KVX" { tile 1768 } 		  // Blue dog					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/1772.KVX" { tile 1772 } 		  // Red dog					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/1776.KVX" { tile 1776 } 		  // Green dog					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/1780.KVX" { tile 1780 } 		  // Yellow dog					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/2152.KVX" { tile 2152 } 		  // UZI bullet shell			// Dzierzan
-voxel "SWVOXFIL/2153.KVX" { tile 2153 } 		  // UZI bullet shell			// Dzierzan
-voxel "SWVOXFIL/2154.KVX" { tile 2154 } 		  // UZI bullet shell			// Dzierzan
-voxel "SWVOXFIL/2155.KVX" { tile 2155 } 		  // UZI bullet shell			// Dzierzan
-voxel "SWVOXFIL/2156.KVX" { tile 2156 } 		  // UZI bullet shell			// Dzierzan
-voxel "SWVOXFIL/2157.KVX" { tile 2157 } 		  // UZI bullet shell			// Dzierzan
-voxel "SWVOXFIL/2180.KVX" { tile 2180 } 		  // Riotgun bullet shell		// Dzierzan
-voxel "SWVOXFIL/2181.KVX" { tile 2181 } 		  // Riotgun bullet shell		// Dzierzan
-voxel "SWVOXFIL/2182.KVX" { tile 2182 } 		  // Riotgun bullet shell		// Dzierzan
-voxel "SWVOXFIL/2183.KVX" { tile 2183 } 		  // Riotgun bullet shell		// Dzierzan
-voxel "SWVOXFIL/2184.KVX" { tile 2184 } 		  // Riotgun bullet shell		// Dzierzan
-voxel "SWVOXFIL/2185.KVX" { tile 2185 } 		  // Riotgun bullet shell		// Dzierzan
-voxel "SWVOXFIL/2186.KVX" { tile 2186 } 		  // Riotgun bullet shell		// Dzierzan
-voxel "SWVOXFIL/2187.KVX" { tile 2187 } 		  // Riotgun bullet shell		// Dzierzan
-voxel "SWVOXFIL/2219.KVX" { tile 2219 } 		  // 							// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/2223.KVX" { tile 2223 } 		  // Sticky bomb A				// Dzierzan
-voxel "SWVOXFIL/2224.KVX" { tile 2224 } 		  // Sticky bomb B				// Dzierzan
-voxel "SWVOXFIL/2530.KVX" { tile 2530 } 		  // Coin A						// Dzierzan
-voxel "SWVOXFIL/2531.KVX" { tile 2531 } 		  // Coin B						// Dzierzan
-voxel "SWVOXFIL/2532.KVX" { tile 2532 } 		  // Coin C						// Dzierzan
-voxel "SWVOXFIL/2533.KVX" { tile 2533 } 		  // Coin D						// Dzierzan
-voxel "SWVOXFIL/2540.KVX" { tile 2540 } 		  // Trash bin A				// Dzierzan
-voxel "SWVOXFIL/2541.KVX" { tile 2541 } 		  // Trash bin B				// Dzierzan
-voxel "SWVOXFIL/2542.KVX" { tile 2542 } 		  // Trash bin C				// Dzierzan
-voxel "SWVOXFIL/2543.KVX" { tile 2543 } 		  // Trash bin D				// Dzierzan
-voxel "SWVOXFIL/2544.KVX" { tile 2544 } 		  // Trash bin E				// Dzierzan
-voxel "SWVOXFIL/2545.KVX" { tile 2545 } 		  // Trash bin F				// Dzierzan
-voxel "SWVOXFIL/2546.KVX" { tile 2546 } 		  // Trash bin G				// Dzierzan
-voxel "SWVOXFIL/2640.KVX" { tile 2640 } 		  // Yellow crytal				// mxrtxn
-//voxel "SWVOXFIL/2680.KVX" { tile 2680 } 		  // Bag						// mxrtxn // TO BE IMPROVED
-//voxel "SWVOXFIL/2681.KVX" { tile 2681 } 		  // Bag						// mxrtxn // TO BE IMPROVED
-//voxel "SWVOXFIL/2682.KVX" { tile 2682 } 		  // Bag						// mxrtxn // TO BE IMPROVED
-//voxel "SWVOXFIL/2683.KVX" { tile 2683 } 		  // Bag						// mxrtxn // TO BE IMPROVED
-//voxel "SWVOXFIL/2684.KVX" { tile 2684 } 		  // Bag						// mxrtxn // TO BE IMPROVED
-//voxel "SWVOXFIL/2685.KVX" { tile 2685 } 		  // Bag						// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/2700.KVX" { tile 2700 } 		  // Red small paper latern		// mxrtxn
-voxel "SWVOXFIL/2701.KVX" { tile 2701 } 		  // Yellow small paper latern	// mxrtxn
-voxel "SWVOXFIL/2702.KVX" { tile 2702 } 		  // White paper latern			// Dzierzan
-voxel "SWVOXFIL/2703.KVX" { tile 2703 } 		  // Small blue paper latern	// mxrtxn
-voxel "SWVOXFIL/2704.KVX" { tile 2704 } 		  // Big red paper latern		// mxrtxn
-voxel "SWVOXFIL/2705.KVX" { tile 2705 } 		  // Paper latern				// mxrtxn
-voxel "SWVOXFIL/2737.KVX" { tile 2737 } 		  // Table						// Dzierzan
-voxel "SWVOXFIL/2738.KVX" { tile 2738 } 		  // Soap						// mxrtxn
-voxel "SWVOXFIL/2739.KVX" { tile 2739 } 		  // Toilet paper				// mxrtxn
-voxel "SWVOXFIL/2781.KVX" { tile 2781 } 		  // Pole						// mxrtxn
-voxel "SWVOXFIL/3038.KVX" { tile 3038 } 		  // Gas bomb A					// mxrtxn
-voxel "SWVOXFIL/3039.KVX" { tile 3039 } 		  // Gas bomb B 				// mxrtxn
-voxel "SWVOXFIL/3040.KVX" { tile 3040 } 		  // Gas bomb C					// mxrtxn
-voxel "SWVOXFIL/3041.KVX" { tile 3041 } 		  // Gas bomb D					// mxrtxn
-voxel "SWVOXFIL/3042.KVX" { tile 3042 } 		  // Gas bomb E					// mxrtxn
-voxel "SWVOXFIL/3354.KVX" { tile 3354 } 		  // Pole						// Dzierzan
-voxel "SWVOXFIL/3355.KVX" { tile 3355 } 		  // Antenna					// Dzierzan
-voxel "SWVOXFIL/3356.KVX" { tile 3356 } 		  // Umbrella					// mxrtxn & Dzierzan
-voxel "SWVOXFIL/3358.KVX" { tile 3358 } 		  // Damaged umbrella			// mxrtxn & Dzierzan
-voxel "SWVOXFIL/3380.KVX" { tile 3380 } 		  // Mesh						// Dzierzan
-voxel "SWVOXFIL/3449.KVX" { tile 3449 } 		  // Paper and pencil			// mxrtxn
-voxel "SWVOXFIL/3450.KVX" { tile 3450 } 		  // Blue cup					// Dzierzan
-voxel "SWVOXFIL/3468.KVX" { tile 3468 } 		  // Pipe						// Dzierzan
-voxel "SWVOXFIL/3469.KVX" { tile 3469 } 		  // Pipes 						// Dzierzan
-voxel "SWVOXFIL/3470.KVX" { tile 3470 } 		  // Pipe						// Dzierzan
-voxel "SWVOXFIL/3471.KVX" { tile 3471 } 		  // Fat pipe					// Dzierzan
-voxel "SWVOXFIL/3472.KVX" { tile 3472 } 		  // Pole						// Dzierzan
-voxel "SWVOXFIL/3473.KVX" { tile 3473 } 		  // Pole						// Dzierzan
-voxel "SWVOXFIL/3496.KVX" { tile 3496 } 		  // Clothes hanger				// Dzierzan
-voxel "SWVOXFIL/3497.KVX" { tile 3497 } 		  // Towel						// mxrtxn
-voxel "SWVOXFIL/3508.KVX" { tile 3508 } 		  // Faucet						// Dzierzan
-voxel "SWVOXFIL/3509.KVX" { tile 3509 } 		  // Hands dryer				// mxrtxn
-voxel "SWVOXFIL/3524.KVX" { tile 3524 } 		  // Bar						// mxrtxn
-voxel "SWVOXFIL/3548.KVX" { tile 3548 } 		  // Condon box					// mxrtxn
-voxel "SWVOXFIL/3550.KVX" { tile 3550 } 		  // Pillar						// Dzierzan
-voxel "SWVOXFIL/3557.KVX" { tile 3557 } 		  //							// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/3558.KVX" { tile 3558 } 		  // Wooden bowl				// mxrtxn // TO BE IMPROVED
-//voxel "SWVOXFIL/3576.KVX" { tile 3576 } 		  // Small tree					// mxrtxn // TO BE IMPROVED
-voxel "SWVOXFIL/3579.KVX" { tile 3579 } 		  // Flower pot					// mxrtxn
-voxel "SWVOXFIL/3580.KVX" { tile 3580 } 		  // Flower pot					// mxrtxn
-voxel "SWVOXFIL/3589.KVX" { tile 3589 } 		  // Damaged telephone			// mxrtxn
-voxel "SWVOXFIL/3590.KVX" { tile 3590 } 		  // Damaged decal sprite		// mxrtxn
-voxel "SWVOXFIL/4880.KVX" { tile 4880 } 		  // String						// Dzierzan
-voxel "SWVOXFIL/4886.KVX" { tile 4886 } 		  // Checkout counter			// Dzierzan
-voxel "SWVOXFIL/4947.KVX" { tile 4947 } 		  // Damaged punching dummy		// mxrtxn
-voxel "SWVOXFIL/4994.KVX" { tile 4994 } 		  // Holy Grail					// Dzierzan
-voxel "SWVOXFIL/5017.KVX" { tile 5017 } 		  // Sign on stick				// Dzierzan
-voxel "SWVOXFIL/5018.KVX" { tile 5018 } 		  // Sign on stick				// Dzierzan
-voxel "SWVOXFIL/5019.KVX" { tile 5019 } 		  // Sign on stick				// Dzierzan
-voxel "SWVOXFIL/5040.KVX" { tile 5040 } 		  // Out of order sign			// Dzierzan
-voxel "SWVOXFIL/5041.KVX" { tile 5041 } 		  // Dorsal fin					// Dzierzan
-voxel "SWVOXFIL/5042.KVX" { tile 5042 } 		  // Cat and mouse				// mxrtxn
-voxel "SWVOXFIL/5043.KVX" { tile 5043 } 		  // Lock						// mxrtxn
-voxel "SWVOXFIL/5050.KVX" { tile 5050 } 		  // Poo						// Dzierzan
-voxel "SWVOXFIL/5060.KVX" { tile 5060 } 		  // Halberds					// mxrtxn
-voxel "SWVOXFIL/5061.KVX" { tile 5061 } 		  // Sword						// mxrtxn
-voxel "SWVOXFIL/5062.KVX" { tile 5062 } 		  // Punching stick				// Dzierzan
-voxel "SWVOXFIL/5063.KVX" { tile 5063 } 		  // Punching dummy				// mxrtxn
-voxel "SWVOXFIL/5077.KVX" { tile 5077 } 		  // Damaged cat and mouse		// mxrtxn
-voxel "SWVOXFIL/5097.KVX" { tile 5097 } 		  // Chain with ring			// Dzierzan
-voxel "SWVOXFIL/5800.KVX" { tile 5800 } 		  // Scissors					// mxrtxn
+voxel "KVX/0061.kvx" { tile 61 }  			  // Bar						// mxrtxn
+voxel "KVX/0068.kvx" { tile 68 }  			  // Lamp						// Dzierzan
+voxel "KVX/0069.kvx" { tile 69 }  			  // Knob						// mxrtxn
+voxel "KVX/0081.kvx" { tile 81 }  			  // Radar 						// mxrtxn
+voxel "KVX/0084.kvx" { tile 84 }  			  // Pole						// mxrtxn
+voxel "KVX/0087.kvx" { tile 87 }  			  // Lamp						// Dzierzan
+voxel "KVX/0097.kvx" { tile 97 }  			  // Painting					// Dzierzan
+voxel "KVX/0261.kvx" { tile 261 } 			  // Short pike					// mxrtxn
+voxel "KVX/0267.kvx" { tile 267 } 			  // Pipe						// Dzierzan
+voxel "KVX/0268.kvx" { tile 268 } 			  // Pipe						// Dzierzan
+voxel "KVX/0279.kvx" { tile 279 } 			  // Explosive shells 			// mxrtxn
+voxel "KVX/0280.kvx" { tile 280 } 			  // Short pike					// mxrtxn
+voxel "KVX/0295.kvx" { tile 295 } 			  // Short pike 				// mxrtxn
+voxel "KVX/0361.kvx" { tile 361 } 			  // Short bloody pike			// mxrtxn
+voxel "KVX/0363.kvx" { tile 363 } 			  // Pot on chain				// mxrtxn
+voxel "KVX/0366.kvx" { tile 366 } 			  // Samurai helmet				// mxrtxn
+voxel "KVX/0373.kvx" { tile 373 } 			  // Short bloody pike			// mxrtxn
+voxel "KVX/0378.kvx" { tile 378 } 			  // Short bloody pike			// mxrtxn
+voxel "KVX/0390.kvx" { tile 390 } 			  // Wooden bloody pike 		// mxrtxn
+voxel "KVX/0393.kvx" { tile 393 } 			  // Tree 						// mxrtxn
+voxel "KVX/0396.kvx" { tile 396 } 			  // Fire pot A					// mxrtxn
+voxel "KVX/0397.kvx" { tile 397 } 			  // Fire pot B					// mxrtxn
+voxel "KVX/0398.kvx" { tile 398 } 			  // Fire pot C					// mxrtxn
+voxel "KVX/0399.kvx" { tile 399 } 			  // Fire pot D					// mxrtxn
+voxel "KVX/0401.kvx" { tile 401 } 			  // Tree trunk					// mxrtxn // TO BE IMPROVED
+voxel "KVX/0402.kvx" { tile 402 } 			  // Tree trunk					// mxrtxn // TO BE IMPROVED
+voxel "KVX/0408.kvx" { tile 408 } 			  // Banner						// mxrtxn
+voxel "KVX/0408.kvx" { tile 408 } 			  // Banner						// mxrtxn
+voxel "KVX/0409.kvx" { tile 409 } 			  // Wooden pike				// mxrtxn
+voxel "KVX/0415.kvx" { tile 415 } 			  // Candle A 					// Dzierzan
+voxel "KVX/0416.kvx" { tile 416 } 			  // Candle B 					// Dzierzan
+voxel "KVX/0417.kvx" { tile 417 } 			  // Candle C					// Dzierzan
+voxel "KVX/0418.kvx" { tile 418 } 			  // Skull candle A				// Dzierzan
+voxel "KVX/0419.kvx" { tile 419 } 			  // Skull candle B				// Dzierzan
+voxel "KVX/0420.kvx" { tile 420 } 			  // Skull candle C				// Dzierzan
+voxel "KVX/0421.kvx" { tile 421 } 			  // Wooden pike				// mxrtxn
+voxel "KVX/0428.kvx" { tile 428 } 			  // Banner						// mxrtxn
+voxel "KVX/0429.kvx" { tile 429 } 			  // Wooden bloody pike			// mxrtxn
+voxel "KVX/0439.kvx" { tile 439 } 			  // Long spear					// mxrtxn
+voxel "KVX/0442.kvx" { tile 442 } 			  // Chinese object				// mxrtxn
+//voxel "KVX/0443.kvx" { tile 443 } 		  //There's only one sprite for that animated voxel, so it's right now disabled. // mxrtxn
+voxel "KVX/0453.kvx" { tile 453 } 			  // Vase with water A			// mxrtxn
+voxel "KVX/0454.kvx" { tile 454 } 			  // Vase with water B			// mxrtxn
+voxel "KVX/0455.kvx" { tile 455 } 			  // Vase with water C			// mxrtxn
+voxel "KVX/0456.kvx" { tile 456 } 			  // Vase with water D			// mxrtxn
+voxel "KVX/0460.kvx" { tile 460 } 			  // Wind chime A				// Dzierzan
+voxel "KVX/0461.kvx" { tile 461 } 			  // Wind chime B				// Dzierzan
+voxel "KVX/0462.kvx" { tile 462 } 			  // Wind chime C				// Dzierzan
+voxel "KVX/0463.kvx" { tile 463 } 			  // Stone object				// mxrtxn
+voxel "KVX/0468.kvx" { tile 468 } 			  // Flask						// mxrtxn
+voxel "KVX/0475.kvx" { tile 475 } 			  // Flask						// mxrtxn
+voxel "KVX/0478.kvx" { tile 478 } 			  // Shower						// Dzierzan
+voxel "KVX/0481.kvx" { tile 481 } 			  // Wet floor sign				// mxrtxn
+voxel "KVX/0486.kvx" { tile 486 } 			  // 220V						// mxrtxn
+voxel "KVX/0487.kvx" { tile 487 } 			  // Telephone					// mxrtxn
+voxel "KVX/0492.kvx" { tile 492 } 			  // Katanas					// mxrtxn
+voxel "KVX/0493.kvx" { tile 493 } 			  // Wheeled chair				// mxrtxn // TO BE IMPROVED
+voxel "KVX/0496.kvx" { tile 496 } 			  // Toilet paper				// mxrtxn
+voxel "KVX/0498.kvx" { tile 498 } 			  // Soap						// mxrtxn
+voxel "KVX/0500.kvx" { tile 500 } 			  // Empty food plate			// mxrtxn
+voxel "KVX/0501.kvx" { tile 501 } 			  // Full food plate			// mxrtxn
+voxel "KVX/0503.kvx" { tile 503 } 			  // Chopper					// mxrtxn
+voxel "KVX/0504.kvx" { tile 504 } 			  // Desk lamp					// mxrtxn
+voxel "KVX/0505.kvx" { tile 505 } 			  // Ketchup					// mxrtxn
+voxel "KVX/0506.kvx" { tile 506 } 			  // Mustard					// mxrtxn
+voxel "KVX/0507.kvx" { tile 507 } 			  // Bottle						// mxrtxn
+voxel "KVX/0508.kvx" { tile 508 } 			  // Bowl with rice and shrimps // Dzierzan
+voxel "KVX/0509.kvx" { tile 509 } 			  // Cup						// mxrtxn
+voxel "KVX/0510.kvx" { tile 510 } 			  // Cup						// mxrtxn
+voxel "KVX/0511.kvx" { tile 511 } 			  // Pot						// Dzierzan
+voxel "KVX/0519.kvx" { tile 519 } 			  // Chinese lamp				// mxrtxn
+voxel "KVX/0520.kvx" { tile 520 } 			  // Pole						// mxrtxn
+voxel "KVX/0537.kvx" { tile 537 } 			  // Hanging torch A			// mxrtxn
+voxel "KVX/0538.kvx" { tile 538 } 			  // Hanging torch B			// mxrtxn
+voxel "KVX/0539.kvx" { tile 539 } 			  // Hanging torch C			// mxrtxn
+voxel "KVX/0540.kvx" { tile 540 } 			  // Hanging torch D			// mxrtxn
+voxel "KVX/0549.kvx" { tile 549 } 			  // Toro						// mxrtxn
+voxel "KVX/0550.kvx" { tile 550 } 			  // Valve						// mxrtxn
+voxel "KVX/0551.kvx" { tile 551 } 			  // Light switch on			// mxrtxn
+voxel "KVX/0552.kvx" { tile 552 } 			  // Light switch off			// mxrtxn
+voxel "KVX/0553.kvx" { tile 553 } 			  // Skull switch A				// mxrtxn
+voxel "KVX/0554.kvx" { tile 554 } 			  // Skull switch B				// mxrtxn
+voxel "KVX/0561.kvx" { tile 561 } 			  // Level switch A				// mxrtxn
+voxel "KVX/0562.kvx" { tile 562 } 			  // Level switch B				// mxrtxn
+voxel "KVX/0569.kvx" { tile 569 } 			  // Stone switch A				// mxrtxn
+voxel "KVX/0570.kvx" { tile 570 } 			  // Stone switch B				// mxrtxn
+voxel "KVX/0579.kvx" { tile 579 } 			  // Twist switch A		 		// ReaperMan // TO BE IMPROVED
+voxel "KVX/0580.kvx" { tile 580 } 			  // Twist switch B				// ReaperMan // TO BE IMPROVED
+voxel "KVX/0581.kvx" { tile 581 } 			  // Level switch A				// mxrtxn
+voxel "KVX/0582.kvx" { tile 582 } 			  // Level switch B				// mxrtxn
+voxel "KVX/0590.kvx" { tile 590 } 			  // Pot						// Dzierzan
+voxel "KVX/0591.kvx" { tile 591 } 			  // Watering can				// mxrtxn // TO BE IMPROVED
+voxel "KVX/0592.kvx" { tile 592 } 			  // Handle						// mxrtxn
+voxel "KVX/0604.kvx" { tile 604 } 			  // Mop						// Dzierzan
+voxel "KVX/0605.kvx" { tile 605 } 			  // Hospital Sign				// Dzierzan
+voxel "KVX/0606.kvx" { tile 606 } 			  // Janitor sign				// Dzierzan
+voxel "KVX/0607.kvx" { tile 607 } 			  // Medical sign				// Dzierzan
+voxel "KVX/0613.kvx" { tile 613 } 			  // Explosive shell			// Dzierzan
+voxel "KVX/0614.kvx" { tile 614 } 			  // Chair						// mxrtxn // TO BE IMPROVED
+voxel "KVX/0618.kvx" { tile 618 } 			  // Beacon A					// mxrtxn & Dzierzan
+voxel "KVX/0619.kvx" { tile 619 } 			  // Beacon B					// mxrtxn & Dzierzan
+voxel "KVX/0620.kvx" { tile 620 } 			  // Beacon C					// mxrtxn & Dzierzan
+voxel "KVX/0621.kvx" { tile 621 } 			  // Beacon D					// mxrtxn & Dzierzan
+voxel "KVX/0622.kvx" { tile 622 } 			  // Beacon E					// mxrtxn & Dzierzan
+voxel "KVX/0623.kvx" { tile 623 } 			  // Beacon F					// mxrtxn & Dzierzan
+voxel "KVX/0643.kvx" { tile 643 } 			  // Joystick					// mxrtxn //TO BE IMPROVED
+voxel "KVX/0646.kvx" { tile 646 } 			  // Spotlight					// mxrtxn
+voxel "KVX/0647.kvx" { tile 647 } 			  // Gas tank					// Dzierzan
+voxel "KVX/0648.kvx" { tile 648 } 			  // Gas tank carriage			// Dzierzan
+voxel "KVX/0656.kvx" { tile 656 } 			  // Oil						// mxrtxn
+voxel "KVX/0657.kvx" { tile 657 } 			  // Screwdriver				// mxrtxn
+voxel "KVX/0658.kvx" { tile 658 } 			  // Explosive barrel			// Dzierzan
+voxel "KVX/0663.kvx" { tile 663 } 			  // Wrenches					// Dzierzan
+voxel "KVX/0664.kvx" { tile 664 } 			  // Wrench						// Dzierzan
+voxel "KVX/0670.kvx" { tile 670 } 			  // Hanging torch A			// mxrtxn
+voxel "KVX/0671.kvx" { tile 671 } 			  // Hanging torch B			// mxrtxn
+voxel "KVX/0672.kvx" { tile 672 } 			  // Chain						// mxrtxn & Dzierzan
+voxel "KVX/0678.kvx" { tile 678 } 			  // Bowl						// Dzierzan
+voxel "KVX/0679.kvx" { tile 679 } 			  // Red beacon A				// Dzierzan
+voxel "KVX/0680.kvx" { tile 680 } 			  // Red beacon B				// Dzierzan
+voxel "KVX/0681.kvx" { tile 681 } 			  // Red beacon C				// Dzierzan
+voxel "KVX/0682.kvx" { tile 682 } 			  // Red beacon D				// Dzierzan
+voxel "KVX/0683.kvx" { tile 683 } 			  // Glass ball					// mxrtxn
+voxel "KVX/0684.kvx" { tile 684 } 			  // Big flask					// Dzierzan
+voxel "KVX/0685.kvx" { tile 685 } 			  // Blue flask					// mxrtxn
+voxel "KVX/0686.kvx" { tile 686 } 			  // Black container			// Dzierzan
+voxel "KVX/0689.kvx" { tile 689 } 			  // Trash bin					// mxrtxn
+voxel "KVX/0691.kvx" { tile 691 } 			  // Trash bin					// Dzierzan
+voxel "KVX/0693.kvx" { tile 693 } 			  // Wooden barrel				// Dzierzan
+voxel "KVX/0694.kvx" { tile 694 } 			  // Metal Barrel				// Dzierzan
+//voxel "KVX/0695.kvx" { tile 695 } 		  // Stone						// mxrtxn // TO BE IMPROVED
+//voxel "KVX/0696.kvx" { tile 696 } 		  // Stone						// mxrtxn // TO BE IMPROVED
+voxel "KVX/0705.kvx" { tile 705 } 			  // Trash bin					// Dzierzan
+voxel "KVX/0708.kvx" { tile 708 } 			  // Damaged spotlight			// mxrtxn
+voxel "KVX/0712.kvx" { tile 712 } 			  // Barrel danger fireworks	// Dzierzan
+voxel "KVX/0713.kvx" { tile 713 } 			  // Barrel danger TNT			// Dzierzan
+voxel "KVX/0742.kvx" { tile 742 } 			  // Telephone					// mxrtxn
+voxel "KVX/0743.kvx" { tile 743 } 			  // Telephone					// mxrtxn
+voxel "KVX/0760.kvx" { tile 760 } 			  // Steering wheel				// mxrtxn
+voxel "KVX/0766.kvx" { tile0 766 tile1 767 } // Parking meter A			// Dzierzan
+voxel "KVX/0820.kvx" { tile0 820 tile1 824 } // Red skull					// Dzierzan
+voxel "KVX/1768.kvx" { tile 1768 } 		  // Blue dog					// mxrtxn & Dzierzan
+voxel "KVX/1772.kvx" { tile 1772 } 		  // Red dog					// mxrtxn & Dzierzan
+voxel "KVX/1776.kvx" { tile 1776 } 		  // Green dog					// mxrtxn & Dzierzan
+voxel "KVX/1780.kvx" { tile 1780 } 		  // Yellow dog					// mxrtxn & Dzierzan
+voxel "KVX/2152.kvx" { tile 2152 } 		  // UZI bullet shell			// Dzierzan
+voxel "KVX/2153.kvx" { tile 2153 } 		  // UZI bullet shell			// Dzierzan
+voxel "KVX/2154.kvx" { tile 2154 } 		  // UZI bullet shell			// Dzierzan
+voxel "KVX/2155.kvx" { tile 2155 } 		  // UZI bullet shell			// Dzierzan
+voxel "KVX/2156.kvx" { tile 2156 } 		  // UZI bullet shell			// Dzierzan
+voxel "KVX/2157.kvx" { tile 2157 } 		  // UZI bullet shell			// Dzierzan
+voxel "KVX/2180.kvx" { tile 2180 } 		  // Riotgun bullet shell		// Dzierzan
+voxel "KVX/2181.kvx" { tile 2181 } 		  // Riotgun bullet shell		// Dzierzan
+voxel "KVX/2182.kvx" { tile 2182 } 		  // Riotgun bullet shell		// Dzierzan
+voxel "KVX/2183.kvx" { tile 2183 } 		  // Riotgun bullet shell		// Dzierzan
+voxel "KVX/2184.kvx" { tile 2184 } 		  // Riotgun bullet shell		// Dzierzan
+voxel "KVX/2185.kvx" { tile 2185 } 		  // Riotgun bullet shell		// Dzierzan
+voxel "KVX/2186.kvx" { tile 2186 } 		  // Riotgun bullet shell		// Dzierzan
+voxel "KVX/2187.kvx" { tile 2187 } 		  // Riotgun bullet shell		// Dzierzan
+voxel "KVX/2219.kvx" { tile 2219 } 		  // 							// mxrtxn // TO BE IMPROVED
+voxel "KVX/2223.kvx" { tile 2223 } 		  // Sticky bomb A				// Dzierzan
+voxel "KVX/2224.kvx" { tile 2224 } 		  // Sticky bomb B				// Dzierzan
+voxel "KVX/2530.kvx" { tile 2530 } 		  // Coin A						// Dzierzan
+voxel "KVX/2531.kvx" { tile 2531 } 		  // Coin B						// Dzierzan
+voxel "KVX/2532.kvx" { tile 2532 } 		  // Coin C						// Dzierzan
+voxel "KVX/2533.kvx" { tile 2533 } 		  // Coin D						// Dzierzan
+voxel "KVX/2540.kvx" { tile 2540 } 		  // Trash bin A				// Dzierzan
+voxel "KVX/2541.kvx" { tile 2541 } 		  // Trash bin B				// Dzierzan
+voxel "KVX/2542.kvx" { tile 2542 } 		  // Trash bin C				// Dzierzan
+voxel "KVX/2543.kvx" { tile 2543 } 		  // Trash bin D				// Dzierzan
+voxel "KVX/2544.kvx" { tile 2544 } 		  // Trash bin E				// Dzierzan
+voxel "KVX/2545.kvx" { tile 2545 } 		  // Trash bin F				// Dzierzan
+voxel "KVX/2546.kvx" { tile 2546 } 		  // Trash bin G				// Dzierzan
+voxel "KVX/2640.kvx" { tile 2640 } 		  // Yellow crytal				// mxrtxn
+//voxel "KVX/2680.kvx" { tile 2680 } 		  // Bag						// mxrtxn // TO BE IMPROVED
+//voxel "KVX/2681.kvx" { tile 2681 } 		  // Bag						// mxrtxn // TO BE IMPROVED
+//voxel "KVX/2682.kvx" { tile 2682 } 		  // Bag						// mxrtxn // TO BE IMPROVED
+//voxel "KVX/2683.kvx" { tile 2683 } 		  // Bag						// mxrtxn // TO BE IMPROVED
+//voxel "KVX/2684.kvx" { tile 2684 } 		  // Bag						// mxrtxn // TO BE IMPROVED
+//voxel "KVX/2685.kvx" { tile 2685 } 		  // Bag						// mxrtxn // TO BE IMPROVED
+voxel "KVX/2700.kvx" { tile 2700 } 		  // Red small paper latern		// mxrtxn
+voxel "KVX/2701.kvx" { tile 2701 } 		  // Yellow small paper latern	// mxrtxn
+voxel "KVX/2702.kvx" { tile 2702 } 		  // White paper latern			// Dzierzan
+voxel "KVX/2703.kvx" { tile 2703 } 		  // Small blue paper latern	// mxrtxn
+voxel "KVX/2704.kvx" { tile 2704 } 		  // Big red paper latern		// mxrtxn
+voxel "KVX/2705.kvx" { tile 2705 } 		  // Paper latern				// mxrtxn
+voxel "KVX/2737.kvx" { tile 2737 } 		  // Table						// Dzierzan
+voxel "KVX/2738.kvx" { tile 2738 } 		  // Soap						// mxrtxn
+voxel "KVX/2739.kvx" { tile 2739 } 		  // Toilet paper				// mxrtxn
+voxel "KVX/2781.kvx" { tile 2781 } 		  // Pole						// mxrtxn
+voxel "KVX/3038.kvx" { tile 3038 } 		  // Gas bomb A					// mxrtxn
+voxel "KVX/3039.kvx" { tile 3039 } 		  // Gas bomb B 				// mxrtxn
+voxel "KVX/3040.kvx" { tile 3040 } 		  // Gas bomb C					// mxrtxn
+voxel "KVX/3041.kvx" { tile 3041 } 		  // Gas bomb D					// mxrtxn
+voxel "KVX/3042.kvx" { tile 3042 } 		  // Gas bomb E					// mxrtxn
+voxel "KVX/3354.kvx" { tile 3354 } 		  // Pole						// Dzierzan
+voxel "KVX/3355.kvx" { tile 3355 } 		  // Antenna					// Dzierzan
+voxel "KVX/3356.kvx" { tile 3356 } 		  // Umbrella					// mxrtxn & Dzierzan
+voxel "KVX/3358.kvx" { tile 3358 } 		  // Damaged umbrella			// mxrtxn & Dzierzan
+voxel "KVX/3380.kvx" { tile 3380 } 		  // Mesh						// Dzierzan
+voxel "KVX/3449.kvx" { tile 3449 } 		  // Paper and pencil			// mxrtxn
+voxel "KVX/3450.kvx" { tile 3450 } 		  // Blue cup					// Dzierzan
+voxel "KVX/3468.kvx" { tile 3468 } 		  // Pipe						// Dzierzan
+voxel "KVX/3469.kvx" { tile 3469 } 		  // Pipes 						// Dzierzan
+voxel "KVX/3470.kvx" { tile 3470 } 		  // Pipe						// Dzierzan
+voxel "KVX/3471.kvx" { tile 3471 } 		  // Fat pipe					// Dzierzan
+voxel "KVX/3472.kvx" { tile 3472 } 		  // Pole						// Dzierzan
+voxel "KVX/3473.kvx" { tile 3473 } 		  // Pole						// Dzierzan
+voxel "KVX/3496.kvx" { tile 3496 } 		  // Clothes hanger				// Dzierzan
+voxel "KVX/3497.kvx" { tile 3497 } 		  // Towel						// mxrtxn
+voxel "KVX/3508.kvx" { tile 3508 } 		  // Faucet						// Dzierzan
+voxel "KVX/3509.kvx" { tile 3509 } 		  // Hands dryer				// mxrtxn
+voxel "KVX/3524.kvx" { tile 3524 } 		  // Bar						// mxrtxn
+voxel "KVX/3548.kvx" { tile 3548 } 		  // Condon box					// mxrtxn
+voxel "KVX/3550.kvx" { tile 3550 } 		  // Pillar						// Dzierzan
+voxel "KVX/3557.kvx" { tile 3557 } 		  //							// mxrtxn // TO BE IMPROVED
+voxel "KVX/3558.kvx" { tile 3558 } 		  // Wooden bowl				// mxrtxn // TO BE IMPROVED
+//voxel "KVX/3576.kvx" { tile 3576 } 		  // Small tree					// mxrtxn // TO BE IMPROVED
+voxel "KVX/3579.kvx" { tile 3579 } 		  // Flower pot					// mxrtxn
+voxel "KVX/3580.kvx" { tile 3580 } 		  // Flower pot					// mxrtxn
+voxel "KVX/3589.kvx" { tile 3589 } 		  // Damaged telephone			// mxrtxn
+voxel "KVX/3590.kvx" { tile 3590 } 		  // Damaged decal sprite		// mxrtxn
+voxel "KVX/4880.kvx" { tile 4880 } 		  // String						// Dzierzan
+voxel "KVX/4886.kvx" { tile 4886 } 		  // Checkout counter			// Dzierzan
+voxel "KVX/4947.kvx" { tile 4947 } 		  // Damaged punching dummy		// mxrtxn
+voxel "KVX/4994.kvx" { tile 4994 } 		  // Holy Grail					// Dzierzan
+voxel "KVX/5017.kvx" { tile 5017 } 		  // Sign on stick				// Dzierzan
+voxel "KVX/5018.kvx" { tile 5018 } 		  // Sign on stick				// Dzierzan
+voxel "KVX/5019.kvx" { tile 5019 } 		  // Sign on stick				// Dzierzan
+voxel "KVX/5040.kvx" { tile 5040 } 		  // Out of order sign			// Dzierzan
+voxel "KVX/5041.kvx" { tile 5041 } 		  // Dorsal fin					// Dzierzan
+voxel "KVX/5042.kvx" { tile 5042 } 		  // Cat and mouse				// mxrtxn
+voxel "KVX/5043.kvx" { tile 5043 } 		  // Lock						// mxrtxn
+voxel "KVX/5050.kvx" { tile 5050 } 		  // Poo						// Dzierzan
+voxel "KVX/5060.kvx" { tile 5060 } 		  // Halberds					// mxrtxn
+voxel "KVX/5061.kvx" { tile 5061 } 		  // Sword						// mxrtxn
+voxel "KVX/5062.kvx" { tile 5062 } 		  // Punching stick				// Dzierzan
+voxel "KVX/5063.kvx" { tile 5063 } 		  // Punching dummy				// mxrtxn
+voxel "KVX/5077.kvx" { tile 5077 } 		  // Damaged cat and mouse		// mxrtxn
+voxel "KVX/5097.kvx" { tile 5097 } 		  // Chain with ring			// Dzierzan
+voxel "KVX/5800.kvx" { tile 5800 } 		  // Scissors					// mxrtxn
