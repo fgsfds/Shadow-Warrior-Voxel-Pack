@@ -15,6 +15,7 @@ voxel "KVX/0361.kvx" { tile 361 } 			  // Short bloody pike			// mxrtxn
 voxel "KVX/0363.kvx" { tile 363 } 			  // Pot on chain				// mxrtxn
 voxel "KVX/0366.kvx" { tile 366 } 			  // Samurai helmet				// mxrtxn
 voxel "KVX/0373.kvx" { tile 373 } 			  // Short bloody pike			// mxrtxn
+voxel "KVX/0375.kvx" { tile 375 } 			  // Buddha statue				// Dzierzan
 voxel "KVX/0378.kvx" { tile 378 } 			  // Short bloody pike			// mxrtxn
 voxel "KVX/0390.kvx" { tile 390 } 			  // Wooden bloody pike 		// mxrtxn
 voxel "KVX/0393.kvx" { tile 393 } 			  // Tree 						// mxrtxn
