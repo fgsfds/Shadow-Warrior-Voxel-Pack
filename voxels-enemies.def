@@ -1,1 +1,17 @@
+// Hornet
 
+voxel "KVX/Enemies/0800.kvx" { tile 800 }
+voxel "KVX/Enemies/0800.kvx" { tile 802 }
+voxel "KVX/Enemies/0800.kvx" { tile 804 }
+voxel "KVX/Enemies/0800.kvx" { tile 806 }
+voxel "KVX/Enemies/0800.kvx" { tile 808 }
+
+voxel "KVX/Enemies/0801.kvx" { tile 801 }
+voxel "KVX/Enemies/0801.kvx" { tile 803 }
+voxel "KVX/Enemies/0801.kvx" { tile 805 }
+voxel "KVX/Enemies/0801.kvx" { tile 807 }
+voxel "KVX/Enemies/0801.kvx" { tile 809 }
+
+voxel "KVX/Enemies/0810.kvx" { tile 810 }
+
+voxel "KVX/Enemies/0811.kvx" { tile 811 }
