@@ -11,7 +11,7 @@ ABOUT
 ============================================================================================
 
 This pack provides voxel replacements for sprites in Shadow Warrior.
-It is meant to be used with BuildGDX and VoidSW ports.
+It is meant to be used with BuildGDX, VoidSW and Raze ports.
 
 
 ============================================================================================
@@ -19,14 +19,33 @@ HOW TO USE
 ============================================================================================
 
 BuildGDX (1.09 or later):
-- put swvoxels.zip into autoload folder
-- make sure "enable autoload folder" checkbox is enabled
+{
+   Put Shadow-Warrior-Voxel-Pack.zip into autoload folder.
+   Make sure "enable autoload folder" checkbox is enabled.
+}
 
 VoidSW:
-- unpack swvoxels.zip archive into the port working folder
+{
+   Put Shadow-Warrior-Voxel-Pack.zip into autoload folder.
+   Make sure "enable autoload folder" checkbox is enabled.
+}
 
 Raze:
-- drag swvoxels.zip and drop it on Raze.exe and select Shadow Warrior.
+{
+   Drag Shadow-Warrior-Voxel-Pack.zip and drop it on Raze.exe and select Shadow Warrior game.
+
+   Alternatively you may set either an absolute or relative path in raze_portable.ini to Shadow-Warrior-Voxel-Pack.zip located e.g. in "autoload" folder, like this:
+
+      Absolute path:
+
+   [ShadowWarrior.Autoload]
+   Path=C:\Games\Raze\autoload\Shadow-Warrior-Voxel-Pack.zip
+
+      Relative path:
+
+   [ShadowWarrior.Autoload]
+   Path=autoload\Shadow-Warrior-Voxel-Pack.zip
+}
 
 ============================================================================================
 LINKS
